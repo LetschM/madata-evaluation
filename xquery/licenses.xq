@@ -4,6 +4,7 @@ import module namespace functx = 'http://www.functx.com';
 let $a := for $license in //license
   let $b := $license/text()
   group by $b
+  order by count($license) descending
   return <count lic="{$b}">
   {count($license)}
   </count>
