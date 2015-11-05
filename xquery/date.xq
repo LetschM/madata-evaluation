@@ -1,15 +1,11 @@
 declare default element namespace "http://eprints.org/ep2/data/2.0";
 import module namespace functx = 'http://www.functx.com';
 
-<data>
-{
-for $time in //datestamp/text()
-  let $b := substring-before($time, " ") 
-  order by $b
+let $c :=
+for $time in //date/text()
+  let $b := substring($time, 1, 4)
+  order by $time
   group by $b
   return <count date="{$b}">
-  
-  {count($time)}
-    </count>
-}
-</data>
+  {count($time)}</count>
+return <data>{$c}</data>

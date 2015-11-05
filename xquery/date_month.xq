@@ -3,8 +3,8 @@ import module namespace functx = 'http://www.functx.com';
 
 <data>
 {
-for $time in //datestamp/text()
-  let $b := substring-before($time, " ") 
+for $time in //date/text()
+  let $b := substring($time, 1, 7)
   order by $b
   group by $b
   return <count date="{$b}">

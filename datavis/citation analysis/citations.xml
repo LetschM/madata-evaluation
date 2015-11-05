@@ -1,0 +1,2857 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<eprint num="1">
+		<doi>10.7801/1</doi>
+		<title>Analyse der Tag-Struktur in Bibsonomy</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/1</uri>
+		<date>2010</date>
+		<creators>
+			<creator>
+				<family>Hänger</family>
+				<given>Christian</given>
+			</creator>
+			<creator>
+				<family>Krätzsch</family>
+				<given>Christine</given>
+			</creator>
+			<creator>
+				<family>Niemann</family>
+				<given>Christof</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Tagging and Automation - Challenges and Chances for Academic Libraries</title>
+				<uri>http://www.emeraldinsight.com/doi/full/10.1108/07378830911007664</uri>
+				<date>2009</date>
+				<creators>
+					<creator>
+						<family>Niemann</family>
+						<given>Christof</given>
+					</creator>
+					<creator>
+						<family>Hänger</family>
+						<given>Christian</given>
+					</creator>
+					<creator>
+						<family>Eckert</family>
+						<given>Kai</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Tagging for libraries: A review of the effectiveness of tagging systems for library catalogs</title>
+						<uri>http://www.tandfonline.com/doi/abs/10.1080/19386389.2013.778730#.VjdzlJeVtUQ</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Gerolimos</family>	
+								<given>Michalis</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>基于概念格的 Folksonomy 知识组织研究——TagCloud 的层级体系构建</title>
+						<uri>http://www.cqvip.com/qk/95888x/201202/40920550.html</uri>
+						<date>2012</date>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>国外图书馆管理研究述评</title>
+						<uri>http://www.cqvip.com/qk/93480x/201305/47338454.html</uri>
+						<date>2012</date>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>User tagging for digital archives: the case of commercial keywords from the grand secretariat</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-642-24826-9_21</uri>
+						<date>2011</date>
+						<creators>
+							<creator>
+								<family>Chen</family>	
+								<given>Shu-Jiun</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>基于标签与群组的学术博客在开放存取平台中的应用研究</title>
+						<uri>http://www.cqvip.com/qk/90226x/201209/43330105.html</uri>
+						<date>2012</date>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>quote analysis of social tags on intersectionality for works on Asian women: an exploratory study of LibraryThing</title>
+						<uri>http://trace.tennessee.edu/utk_gradthes/988/</uri>
+						<date>2011</date>
+						<creators>
+							<creator>
+								<family>Kathuria</family>	
+								<given>Sheetija</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Collaborative Tagging in Digital Libraries</title>
+						<uri>ijidt.com/index.php/ijidt/article/download/4.2.9/200</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Zaveri</family>	
+								<given>Parul</given>
+							</creator>
+							<creator>
+								<family>Atkekar</family>	
+								<given>Mukta</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Evaluation of the Effectiveness of Tag as an Access Point in a Public Library OPAC</title>
+						<uri>http://www.cais-acsi.ca/ojs/index.php/cais/article/view/616</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Ajiferuke</family>	
+								<given>Isola</given>
+							</creator>
+							<creator>
+								<family>Goodfellow</family>	
+								<given>Jamie Leigh</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Tagging for Libraries: A Review of the Ef-fectiveness of Tagging Systems for Library Catalogs</title>
+						<uri>http://195.251.240.254:8080/handle/10184/4103</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Gerolimos</family>	
+								<given>Michalis</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+			<publication>
+				<title>Good tags or bad tags? Tagging im Kontext der bibliothekarischen Sacherschließung</title>
+				<uri>https://ub-madoc.bib.uni-mannheim.de/2103</uri>
+				<date>2008</date>
+				<creators>
+					<creator>
+						<family>Hänger</family>
+						<given>Christian</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>The retrieval effectiveness of web search engines: considering results descriptions</title>
+						<uri>http://www.emeraldinsight.com/doi/full/10.1108/00220410810912451</uri>
+						<date>2008</date>
+						<creators>
+							<creator>
+								<family>Lewandowski</family>	
+								<given>Dirk</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Educação e bibliotecas digitais Education and digital libraries</title>
+						<uri>http://polaris.bc.unicamp.br/seer/ojs/index.php/rbci/article/view/433</uri>
+						<date>2010</date>
+						<creators>
+							<creator>
+								<family>Furtado</family>	
+								<given>Cassia</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Folksonomies: Nutzergerechte Schlagwörter als Indexierungswerkzeug für die Massen</title>
+						<uri>http://eprints.rclis.org/16583/</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Peters</family>	
+								<given>Isabella</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Kataloganreicherung/user-created quote-oder: Wieso funktioniert mein OPAC nicht wie Amazon?</title>
+						<uri>http://eprints.rclis.org/16583/</uri>
+						<date>2009</date>
+						<creators>
+							<creator>
+								<family>Ebeid</family>	
+								<given>Nadia</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Social Tagging: Inhaltliche Erschließung durch freie Verschlagwortung und die „Klugheit der Masse“</title>
+						<uri>http://journals.ub.uni-heidelberg.de/index.php/akmb-news/article/viewFile/6147/1649</uri>
+						<date>2009</date>
+						<creators>
+							<creator>
+								<family>Hohmann</family>	
+								<given>Georg</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Computerunterstützte Tagging-Verfahren für Dokumente im Web</title>
+						<uri>theses.fh-hagenberg.at/system/files/pdf/Kroiss10.pdf</uri>
+						<date>2010</date>
+						<creators>
+							<creator>
+								<family>Kroiss</family>	
+								<given>Anna</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="2">
+		<doi>10.7801/116</doi>
+		<title>Data from the paper: Valence and Arosual: A comparison of two sets of Emotional Facial Expressions</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/116</uri>
+		<date>2010</date>
+		<creators>
+			<creator>
+				<family>Adolph</family>
+				<given>Dirk</given>
+			</creator>
+			<creator>
+				<family>Alpers</family>
+				<given>Georg W.</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Valence and Arousal: A Comparison of Two Sets of Emotional Facial Expressions</title>
+				<uri> https://ub-madoc.bib.uni-mannheim.de/30291</uri>
+				<date>2010</date>
+				<creators>
+					<creator>
+						<family>Adolph</family>
+						<given>Dirk</given>
+					</creator>
+					<creator>
+						<family>Alpers</family>
+						<given>Georg W.</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Happy mouth and sad eyes: scanning emotional facial expressions.</title>
+						<uri>http://psycnet.apa.org/journals/emo/11/4/860/</uri>
+						<date>2011</date>
+						<creators>
+							<creator>
+								<family>Eisenbarth</family>	
+								<given>Hedwig</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>	
+								<given>Georg W.</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Affective engagement for facial expressions and emotional scenes: the influence of social anxiety</title>
+						<uri>http://www.sciencedirect.com/science/article/pii/S0301051112001093</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Wangelin</family>	
+								<given>Bethany C.</given>
+							</creator>
+							<creator>
+								<family>Bradley</family>	
+								<given>Margaret M.</given>
+							</creator>
+							<creator>
+								<family>Kastner</family>	
+								<given>Anna</given>
+							</creator>
+							<creator>
+								<family>Lang</family>	
+								<given>Peter J.</given>
+							</creator>
+						</creators>	
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Visual face perception of adults with unilateral cleft lip and palate in comparison to controls-an eye-tracking study</title>
+						<uri>http://www.cpcjournal.org/doi/abs/10.1597/08-244</uri>
+						<date>2011</date>
+						<creators>
+							<creator>
+								<family>Meyer-Marcotty</family>	
+								<given>Philipp</given>
+							</creator>
+							<creator>
+								<family>Gerdes</family>	
+								<given>Antje B. M.</given>
+							</creator>
+							<creator>
+								<family>Stellzig</family>	
+								<given>Eisenhauer</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>	
+								<given>Georg W.</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Electrocortical responses to NIMSTIM facial expressions of emotion</title>
+						<uri>http://www.sciencedirect.com/science/article/pii/S0167876012006782</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Smith</family>	
+								<given>Ezra</given>
+							</creator>
+							<creator>
+								<family>Moran</family>	
+								<given>Tim</given>
+							</creator>
+							<creator>
+								<family>Hajcak</family>	
+								<given>Greg</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Context counts! social anxiety modulates the processing of fearful faces in the context of chemosensory anxiety signals</title>
+						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3685720/</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Adolph</family>	
+								<given>Dirk</given>
+							</creator>
+							<creator>
+								<family>Meister</family>	
+								<given>Lukas</given>
+							</creator>
+							<creator>
+								<family>Pause</family>	
+								<given>Bettina M.</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Psychopathic traits predict startle habituation but not modulation in an emotional faces task</title>
+						<uri>http://www.sciencedirect.com/science/article/pii/S0191886910006227</uri>
+						<date>2010</date>
+						<creators>
+							<creator>
+								<family>Anderson</family>	
+								<given>Nathaniel E.</given>
+							</creator>
+							<creator>
+								<family>Wan</family>	
+								<given>Li</given>
+							</creator>
+							<creator>
+								<family>Young</family>	
+								<given>Keith A.</given>
+							</creator>
+							<creator>
+								<family>Stanford</family>	
+								<given>Matthew S.</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Recognition of facially expressed emotions in patients with fibromyalgia syndrome</title>
+						<uri>http://www.tandfonline.com/doi/abs/10.1080/08964289.2013.818932</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Weiß</family>	
+								<given>Sarah</given>
+							</creator>
+							<creator>
+								<family>Winkelmann</family>	
+								<given>Andreas</given>
+							</creator>
+							<creator>
+								<family>Duschek</family>	
+								<given>Stefan</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Perceptual and affective mechanisms in facial expression recognition: An integrative review</title>
+						<uri>http://www.tandfonline.com/doi/abs/10.1080/02699931.2015.1049124</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Calvo</family>	
+								<given>Manuel G.</given>
+							</creator>
+							<creator>
+								<family>Nummenmaa</family>	
+								<given>Lauri</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Emotion and Mood: Over 120 Years of Contemplation and Exploration in The American Journal of Psychology</title>
+						<uri>http://www.jstor.org/stable/10.5406/amerjpsyc.125.4.0409#pdf_only_tab_quotes</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Altarriba</family>	
+								<given>Jeanette</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</title>
+						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Pittig</family>	
+								<given>Andre</given>
+							</creator>
+							<creator>
+								<family>Pawlikowski</family>	
+								<given>Mirko</given>
+							</creator>
+							<creator>
+								<family>Craske</family>	
+								<given>Michelle G.</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>	
+								<given>Georg W.</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Emotional Reactions to Point-Light Display Animations</title>
+						<uri>http://iwc.oxfordjournals.org/quote/early/2015/08/02/iwc.iwv028.short</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Venesvirta</family>	
+								<given>Hanna</given>
+							</creator>
+							<creator>
+								<family>Surakka</family>	
+								<given>Veikko</given>
+							</creator>
+							<creator>
+								<family>Gizatdinova</family>	
+								<given>Yulia</given>
+							</creator>
+							<creator>
+								<family>Lylykangas</family>	
+								<given>Jani</given>
+							</creator>
+							<creator>
+								<family>Spakov</family>	
+								<given>Oleg</given>
+							</creator>
+							<creator>
+								<family>Verho</family>	
+								<given>Jarmo</given>
+							</creator>
+							<creator>
+								<family>Vetek</family>	
+								<given>Akos</given>
+							</creator>
+							<creator>
+								<family>Lekkala</family>	
+								<given>Jukka</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Inhibition and rumination in remitted major depressive disorder</title>
+						<uri>https://www.duo.uio.no/handle/10852/35161</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Kraft</family>	
+								<given>Brage</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Facial Affect Recognition and Social Functioning in Individuals at Risk for Schizophrenia Spectrum Disorders</title>
+						<uri><![CDATA[http://academicworks.cuny.edu/cgi/viewquote.cgi?article=1387&context=gc_etds]]></uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Statucka</family>	
+								<given>Marta Ewa</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Processus émotionnels et cognitifs dans le développement des capacités de prise de décision sous ambiguïté</title>
+						<uri>http://www.theses.fr/2013PA05H121</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Aite</family>	
+								<given>Ania Alexandra</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="3">
+		<doi>10.7801/89</doi>
+		<title>Exploratory Interview Study with Financial Agents</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/116</uri>
+		<date>2011</date>
+		<creators>
+			<creator>
+				<family>Gass</family>
+				<given>Oliver</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="4">
+		<doi>10.7801/2</doi>
+		<title>E-Book-Umfrage an der UB Mannheim 2010 - Fragebogen und Ergebnisdatensatz</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/2</uri>
+		<date>2011</date>
+		<creators>
+			<creator>
+				<family>Kaiser</family>
+				<given>Jessica</given>
+			</creator>
+			<creator>
+				<family>Klein</family>
+				<given>Annette</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Die E-Book-Umfrage an der UB Mannheim – Zusammenfassung der Ergebnisse</title>
+				<uri>https://ub-madoc.bib.uni-mannheim.de/33134</uri>
+				<date>2011</date>
+				<creators>
+					<creator>
+						<family>Kaiser</family>
+						<given>Jessica</given>
+					</creator>
+					<creator>
+						<family>Klein</family>
+						<given>Annette</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="5">
+		<doi>10.7801/74</doi>
+		<title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors - Interview Transcripts
+		</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/74</uri>
+		<date>2011</date>
+		<creators>
+			<creator>
+				<family>Meth</family>
+				<given>Hendrik</given>
+			</creator>
+			<creator>
+				<family>Kahrau</family>
+				<given>Felix</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors</title>
+				<uri>https://ub-madoc.bib.uni-mannheim.de/29687</uri>
+				<date>2011</date>
+				<creators>
+					<creator>
+						<family>Botzenhardt</family>
+						<given>Achim</given>
+					</creator>
+					<creator>
+						<family>Meth</family>
+						<given>Hendrik</given>
+					</creator>
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>How to make agile UX work more efficient: management and sales perspectives</title>
+						<uri>http://dl.acm.org/citation.cfm?id=2399037</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Kuusinen</family>	
+								<given>Kati</given>
+							</creator>
+							<creator>
+								<family>Väänänen-Vainio-Mattila</family>	
+								<given>Kaisa</given>
+							</creator>
+						</creators>
+						<quote>Botzenhardt et al. [4] conducted a hybrid study, where they first interviewed 13 product managers and UX persons and later applied an online survey with 176  participants from software industry. In the survey, they compared organizational setup, cooperation, communication and decision-making between successful and unsuccessful software projects.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Enterprise Systems–A Research Agenda</title>
+						<uri>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Maedche</family>	
+								<given>Alexander</given>
+							</creator>
+							<creator>
+								<family>Mueller</family>	
+								<given>Benjamin</given>
+							</creator>
+						</creators>	
+						<quote>From a vendor perspective, two major research themes are derived on the basis of challenges introduced above: First, we are investigating design integration in software product development (Botzenhardt et al. 2011) and implementation-processes.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Developing Business Process Management Capabilities of Undergraduate IT Students</title>
+						<uri><![CDATA[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&rep=rep1&type=pdf]]></uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Pasha</family>	
+								<given>Muhammad Anwar-ur-Rehman</given>
+							</creator>
+						</creators>
+						<quote>Organizations now increasingly focus on a process view of management and concentrate on cross-functional processes management approach rather than managing loosely connected functional components [2,3,4,5].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Business process orientation: an empirical study of its impact on employees' innovativeness</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Tang</family>	
+								<given>Jing</given>
+							</creator>
+							<creator>
+								<family>Pee</family>	
+								<given>L.G.</given>
+							</creator>
+							<creator>
+								<family>Junichi</family>	
+								<given>Iijima</given>
+							</creator>
+						</creators>
+						<quote>Botzenhardt et al. [4]: "Cross-functional integration is awell established practice in product development", whose success factors of product management and product desgin consist of (1) organizational setup; (2) communication; (3) collaboration; and (4) decision making.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Understanding the role of organizational integration in developing and operating Software-as-a-Service</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Stuckenberg</family>	
+								<given>Sebastian</given>
+							</creator>
+							<creator>
+								<family>Kude</family>	
+								<given>Thomas</given>
+							</creator>
+							<creator>
+								<family>Heinzl</family>	
+								<given>Armin</given>
+							</creator>
+						</creators>
+						<quote>Indeed, previous research in software development suggests a link between the integration of focused activities or functions of software development and solutions success (Botzenhardt et al. 211; tiwana 2004).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</title>
+						<uri>http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Maeche</family>	
+								<given>Alexander</given>
+							</creator>
+							<creator>
+								<family>Werder</family>	
+								<given>Karl</given>
+							</creator>
+						</creators>
+						<quote>The potential of cross-functional integration has also been intensively investigated from an empirical point of view in product development research [e.g., 142,143].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Exploring The Role Of Integration In Software-As-A-Service Failure</title>
+						<uri>http://www.pacis-net.org/file/2012/PACIS2012-155.pdf</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Stuckenberg</family>	
+								<given>Sebastian</given>
+							</creator>
+						</creators>
+						<quote>However, a link between the integration of focused activities or functions of software development and a solutions success has been shown (Botzenhardt et al. 2011; Tiwana 2004).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>User Experience as a basis for Management Decision Making Processes</title>
+						<uri>http://dspace.cc.tut.fi/dpub/handle/123456789/21376</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Ollberg</family>	
+								<given>Kalle Alexander</given>
+							</creator>
+						</creators>
+						<quote>Botzenhardt et al. (2011) highlight the role of managers as the communication enables between designers and developers. In addition, cooperation between product managers and product designers was rated to have a positive influence to product release success (Botzenhardt et al. 2011, pp.9-14).</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="6">
+		<doi>10.7801/75</doi>
+		<title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors - Survey Data</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/75</uri>
+		<date>2011</date>
+		<creators>
+			<creator>
+				<family>Botzenhardt</family>
+				<given>Achim</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors</title>
+				<uri>https://ub-madoc.bib.uni-mannheim.de/29687</uri>
+				<date>2011</date>
+				<creators>
+					<creator>
+						<family>Botzenhardt</family>
+						<given>Achim</given>
+					</creator>
+					<creator>
+						<family>Meth</family>
+						<given>Hendrik</given>
+					</creator>
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>How to make agile UX work more efficient: management and sales perspectives</title>
+						<uri>http://dl.acm.org/citation.cfm?id=2399037</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Kuusinen</family>	
+								<given>Kati</given>
+							</creator>
+							<creator>
+								<family>Väänänen-Vainio-Mattila</family>	
+								<given>Kaisa</given>
+							</creator>
+						</creators>
+						<quote>Botzenhardt et al. [4] conducted a hybrid study, where they first interviewed 13 product managers and UX persons and later applied an online survey with 176  participants from software industry. In the survey, they compared organizational setup, cooperation, communication and decision-making between successful and unsuccessful software projects.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Enterprise Systems–A Research Agenda</title>
+						<uri>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Maedche</family>	
+								<given>Alexander</given>
+							</creator>
+							<creator>
+								<family>Mueller</family>	
+								<given>Benjamin</given>
+							</creator>
+						</creators>	
+						<quote>From a vendor perspective, two major research themes are derived on the basis of challenges introduced above: First, we are investigating design integration in software product development (Botzenhardt et al. 2011) and implementation-processes.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Developing Business Process Management Capabilities of Undergraduate IT Students</title>
+						<uri><![CDATA[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&rep=rep1&type=pdf]]></uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Pasha</family>	
+								<given>Muhammad Anwar-ur-Rehman</given>
+							</creator>
+						</creators>
+						<quote>Organizations now increasingly focus on a process view of management and concentrate on cross-functional processes management approach rather than managing loosely connected functional components [2,3,4,5].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Business process orientation: an empirical study of its impact on employees' innovativeness</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Tang</family>	
+								<given>Jing</given>
+							</creator>
+							<creator>
+								<family>Pee</family>	
+								<given>L.G.</given>
+							</creator>
+							<creator>
+								<family>Junichi</family>	
+								<given>Iijima</given>
+							</creator>
+						</creators>
+						<quote>Botzenhardt et al. [4]: "Cross-functional integration is awell established practice in product development", whose success factors of product management and product desgin consist of (1) organizational setup; (2) communication; (3) collaboration; and (4) decision making.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Understanding the role of organizational integration in developing and operating Software-as-a-Service</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Stuckenberg</family>	
+								<given>Sebastian</given>
+							</creator>
+							<creator>
+								<family>Kude</family>	
+								<given>Thomas</given>
+							</creator>
+							<creator>
+								<family>Heinzl</family>	
+								<given>Armin</given>
+							</creator>
+						</creators>
+						<quote>Indeed, previous research in software development suggests a link between the integration of focused activities or functions of software development and solutions success (Botzenhardt et al. 211; tiwana 2004).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</title>
+						<uri>http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Maeche</family>	
+								<given>Alexander</given>
+							</creator>
+							<creator>
+								<family>Werder</family>	
+								<given>Karl</given>
+							</creator>
+						</creators>
+						<quote>The potential of cross-functional integration has also been intensively investigated from an empirical point of view in product development research [e.g., 142,143].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Exploring The Role Of Integration In Software-As-A-Service Failure</title>
+						<uri>http://www.pacis-net.org/file/2012/PACIS2012-155.pdf</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Stuckenberg</family>	
+								<given>Sebastian</given>
+							</creator>
+						</creators>
+						<quote>However, a link between the integration of focused activities or functions of software development and a solutions success has been shown (Botzenhardt et al. 2011; Tiwana 2004).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>User Experience as a basis for Management Decision Making Processes</title>
+						<uri>http://dspace.cc.tut.fi/dpub/handle/123456789/21376</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Ollberg</family>	
+								<given>Kalle Alexander</given>
+							</creator>
+						</creators>
+						<quote>Botzenhardt et al. (2011) highlight the role of managers as the communication enables between designers and developers. In addition, cooperation between product managers and product designers was rated to have a positive influence to product release success (Botzenhardt et al. 2011, pp.9-14).</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="7">
+		<doi>10.7801/65</doi>
+		<title>Integrating Open and Closed Information Extraction: Challenges and First Steps</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/65</uri>
+		<date>2013</date>
+		<creators>
+			<creator>
+				<family>Dutta</family>
+				<given>Arnab</given>
+			</creator>
+			<creator>
+				<family>Meilicke</family>
+				<given>Christian</given>
+			</creator>
+			<creator>
+				<family>Niepert</family>
+				<given>Matthias</given>
+			</creator>
+			<creator>
+				<family>Ponzetto</family>
+				<given>Simone Paolo</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Integrating Open and Closed Information Extraction: Challenges and First Steps</title>
+				<uri>http://publications.wim.uni-mannheim.de/informatik/lski/Dutta13IntegratingIE.pdf</uri>
+				<uri>http://ub-madoc.bib.uni-mannheim.de/34765/</uri>
+				<date>2013</date>
+				<creators>
+					<creator>
+						<family>Dutta</family>
+						<given>Arnab</given>
+					</creator>
+					<creator>
+						<family>Meilicke</family>
+						<given>Christian</given>
+					</creator>
+					<creator>
+						<family>Niepert</family>
+						<given>Matthias</given>
+					</creator>
+					<creator>
+						<family>Ponzetto</family>
+						<given>Simone Paolo</given>
+					</creator>
+				</creators>
+				<comment>No link in MADATA. MADOC: </comment>
+				<citations>
+					<citation>
+						<title>A probabilistic approach for integrating heterogeneous knowledge sources</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-319-07443-6_20#page-1</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+						<family>Dutta</family>
+						<given>Arnab</given>
+					</creator>
+					<creator>
+						<family>Meilicke</family>
+						<given>Christian</given>
+					</creator>
+					<creator>
+						<family>Ponzetto</family>
+						<given>Simone Paolo</given>
+					</creator>
+						</creators>
+						<quote>We apply the frequency based method as proposed in [9] to generate the set of input mappings H for our experiments. In the paper, we reported a micro-average precision of 82.78% and a recall of 81.31% for the subset defined by selecting the best candidate from H. By choosing this subset as M 0 in Algorithm 1, we are able to start with a set of input that is already highly precise, thus ensuring high-quality information as seed for the method. We will use M0 as baseline and report about the improvements gained by each iteration of our algorithm</quote>
+						<quote>We compare the results of our method with the gold standard G, presented in [9].2 This dataset has been created by randomly choosing twelve Nell properties. For each of these 100 triples have been sampled from the Nell dataset resulting in a rich set of 1200 triples for which subject and object mappings to DBpedia have been specified by human annotators.
+						</quote>
+						<quote>In Table 1 we report the absolute scores along with the differences (Δ) in scores over the most frequent baseline of[9](M0 in Algorithm 1), and the output of the final iteration of the bootstrapped approach. </quote>
+						<quote>In Table 2 we report the performance figures of our approach for each of the properties in the evaluation dataset. As baseline and inital starting point M0 we use the most frequent mapping presented in [9]</quote>
+						<quote>An example for such a method is presented in our previous work [9] where, we extract the top-k most frequent senses of OIE terms from the Wikipedia corpus</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>NLP and DBpedia: An Upward Knowledge Acquisition Spiral</title>
+						<uri><![CDATA[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.846&rep=rep1&type=pdf]]></uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Hellmann</family>
+								<given>Sebastian</given>
+							</creator>
+							<creator>
+								<family>Filipowska</family>
+								<given>Agata</given>
+							</creator>
+							<creator>
+								<family>Barrière</family>
+								<given>Caroline</given>
+							</creator>
+							<creator>
+								<family>Mendes</family>
+								<given>Pablo N</given>
+							</creator>					
+							<creator>
+								<family>Kontokostas</family>
+								<given>Dimitris</given>
+							</creator>		
+						</creators>
+						<quote>To some extent [7] (this volume) explore the problem of the above-mentioned knowledge acquisition bottleneck, by comparing information extraction systems, in particular NELL [4], which spirals on the large corpus ClueWeb09 6 to acquire more and more knowledge, with database extraction approaches based on crowdsourcing resources such as DBpedia.</quote>
+						<quote>While the main focus of [7] is more about how to structure the acquired knowledge than on the acquisition method itself, their work raises an important question: to what extent can we (or should we) use Wikipedia and DBpedia to structure and organize data extracted from text?
+						</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Semantifying triples from open information extraction systems</title>
+						<uri><![CDATA[https://books.google.de/books?hl=de&lr=&id=e93YBAAAQBAJ&oi=fnd&pg=PA111&ots=PnV5FcdkuD&sig=dSvmblWprVAr7Bii7Wfyrh0qRYM#v=onepage&q&f=false]]></uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Dutta</family>
+								<given>Arnab</given>
+							</creator>
+							<creator>
+								<family>Meilicke</family>
+								<given>Christian</given>
+							</creator>
+							<creator>
+								<family>Stuckenschmidt</family>
+								<given>Heiner</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Integrating Natural Language Processing (NLP) and Language Resources Using Linked Data</title>
+						<uri>http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend[id]=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Hellmann</family>
+								<given>Sebastian</given>
+							</creator>
+						</creators>
+						<quote>While the main focus of Dutta et al. (2013) is more about how to structure the acquired knowledge than on the acquisition method itself, their work raises an important question: To what extent can we (or should we) use Wikipedia and DBpedia to structure and organize data extracted from text?</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Entity Linking for Open Information Extraction</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-319-07983-7_11#page-1</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Dutta</family>
+								<given>Arnab</given>
+							</creator>
+							<creator>
+								<family>Schuhmacher</family>
+								<given>Michael</given>
+							</creator>
+						</creators>
+						<quote>In the following, we present first a simple, yet very strong, baseline method, namely the Frequency-based Entity Linking as used in [3].</quote>
+						<quote>Even though this approach does not take any context information into account, it has been proven to be effective not only for text entity linking, but also for Nell triple linking [3].</quote>
+						<quote>We use the gold standard from [3] 1, which consists if 12 different Nell properties with 100 triples each that have been manually linked to their correct DBpedia entities.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Tractable Probabilistic Knowledge Bases: Wikipedia and Beyond</title>
+						<uri>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8722</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Niepert</family>
+								<given>Matthias</given>
+							</creator>
+							<creator>
+								<family>Domingos</family>
+								<given>Pedro</given>
+							</creator>
+						</creators>
+						<quote>For the entity linking experiments we used an existing gold standard for aligning NELL triples (Carlson et al. 2010) to DBPEDIA (Dutta et al. 2013).</quote>
+						<quote>We run two different queries to compute, for each triple, subject and object alignments using the same experimental set-up as previous work (Dutta et al. 2013).</quote>
+						<quote>The results are given in Table 3 (left) and compared with a baseline given in (Dutta et al. 2013)</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Integration of large scale knowledge bases using probabilistic graphical models</title>
+						<uri>http://dl.acm.org/citation.cfm?id=2556202</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Dutta</family>
+								<given>Arnab</given>
+							</creator>
+						</creators>
+						<quote>We generate a set of sameAs hypotheses between the Nell terms and the most probable DBpedia instance with confidences given by P. For further details and empirical results, refer to the paper [7].</quote>
+						<quote>Our extended experiments showed a steady rise in recall for top - 2 and beyond with a saturation after top - 5 ([7]).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Enriching Structured Knowledge with Open Information</title>
+						<uri>http://dl.acm.org/citation.cfm?id=2741139</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Dutta</family>
+								<given>Arnab</given>
+							</creator>
+							<creator>
+								<family>Meilicke</family>
+								<given>Christian</given>
+							</creator>
+							<creator>
+								<family>Stuckenschmidt</family>
+								<given>Heiner</given>
+							</creator>
+						</creators>
+						<quote>This simple but robust approach originates from [7], was applied to mapping OIE facts in [13], and has further been used in [11].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Out of Many, One: Unifying Web-Extracted Knowledge Bases</title>
+						<uri>http://www.akbc.ws/2014/submissions/akbc2014_submission_28.pdf</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Niepert</family>
+								<given>Matthias</given>
+							</creator>
+							<creator>
+								<family>Singh</family>
+								<given>Sameer</given>
+							</creator>
+						</creators>
+						<quote>With the help of researchers at the University of Mannheim, we have begun to assemble a gold standard data set for evaluation purposes [9].</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+			<publication>
+				<title>Integration of Large Scale Knowledge Bases using Probabilistic Graphical Models</title>
+				<uri> 	https://ub-madoc.bib.uni-mannheim.de/35518</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Dutta</family>
+						<given>Arnab</given>
+					</creator>
+				</creators>
+			</publication>
+			<publication>
+				<title>A Probabilistic Approach for Integrating Heterogeneous Knowledge Sources</title>
+				<uri>https://ub-madoc.bib.uni-mannheim.de/36461</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Dutta</family>
+						<given>Arnab</given>
+					</creator>
+					<creator>
+						<family>Meilicke</family>
+						<given>Christian</given>
+					</creator>
+					<creator>
+						<family>Ponzetto</family>
+						<given>Simone Paolo</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Improving the quality of linked data using statistical distributions</title>
+						<uri>http://www.igi-global.com/article/improving-the-quality-of-linked-data-using-statistical-distributions/116452</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Paulheim</family>
+								<given>Heiko</given>
+							</creator>
+							<creator>
+								<family>Bizer</family>
+								<given>Christian</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Identifying wrong links between datasets by multi-dimensional outlier detection</title>
+						<uri>http://ceur-ws.org/Vol-1162/WoDOOM14-proceedings.pdf#page=33</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Paulheim</family>
+								<given>Heiko</given>
+							</creator>
+						</creators>
+						<quote>The authors show that they are capable of identifying a significant amount of contradictions, however, they do not state the precision of their approach. A similar problem is addressed in [10], where the authors aim at finding the most coherent set of links from a set of possible link candidates</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Semantifying triples from open information extraction systems</title>
+						<uri><![CDATA[https://books.google.de/books?hl=de&lr=&id=e93YBAAAQBAJ&oi=fnd&pg=PA111&ots=PnV5FdcoyF&sig=6V93jKGmnVtAIMz_-ppAdGARS70#v=onepage&q&f=false]]></uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Dutta</family>
+								<given>Arnab</given>
+							</creator>
+							<creator>
+								<family>Meilicke</family>
+								<given>Christian</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Knowledge Base Unification via Sense Embeddings and Disambiguation</title>
+						<uri>http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Bovi</family>
+								<given>Claudio Delli</given>
+							</creator>
+							<creator>
+								<family>Espinosa-Anke</family>
+								<given>Luis</given>
+							</creator>
+							<creator>
+								<family>Navigli</family>
+								<given>Roberto</given>
+							</creator>
+						</creators>
+						<quote>Systems like NELL (carson et al., 2010) combine a had-crafted taxonomy of entities and relations with self-supervised large-scale extraction from the Web, but they require additional processing for linking and integration (Dutta et al., 2014)</quote>
+						<quote>Dutta et al. (2014) describe a method for linking arguments in NELL triples to DBPEDIA by combining First Order Logic and Markov Networks;</quote>
+						<quote>In line with (Dutta et al., 2014), we computed precision, recall and F-score for each setting. Results are reported in Table 4 and compared against those of Dutta et al. (2014) and against our first baseline with BABELFY alone.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Truth Discovery to Resolve Object Conflicts in Linked Data</title>
+						<uri>http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Liu</family>
+								<given>Wenqiang</given>
+							</creator>
+							<creator>
+								<family>Liu</family>
+								<given>Jun</given>
+							</creator>
+							<creator>
+								<family>Qian</family>
+								<given>Yanan</given>
+							</creator>
+							<creator>
+								<family>Wei</family>
+								<given>Bifan</given>
+							</creator>
+							<creator>
+								<family>Zheng</family>
+								<given>Qinghua</given>
+							</creator>
+						</creators>
+						<quote>Many Linked Data sources on the web have been created from semi-structured datasets (e.g., Wikipedia) and unstructured ones [3]. Thus, errors inevitably occur during the creation process.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis</title>
+						<uri>https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/660</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Bovi</family>
+								<given>Claudio Delli</given>
+							</creator>
+							<creator>
+								<family>Telesca</family>
+								<given>Luca</given>
+							</creator>
+							<creator>
+								<family>Navigli</family>
+								<given>Roberto</given>
+							</creator>
+						</creators>
+						<quote>Relation strings are still bound to surface text, lacking actual semantic quote. Furthermore, most OIE systems do not have a clear and unified ontological structure and require additional processing steps, such as statistical inference mappings (Dutta et al., 2014), graphbased alignments of relational phrases (Grycner and Weikum, 2014), or knowledge base unification procedures (Delli Bovi et al., 2015), in order for their potential to be exploitable in real applications.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Automatic Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods</title>
+						<uri>http://www.semantic-web-journal.net/system/files/swj1083.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Paulheim</family>
+								<given>Heiko</given>
+							</creator>
+						</creators>
+						<quote>Dutta et al. [18] propose a probabilistic mapping between knowledge graphs. Based on distributions of types and properties, they create a mapping between knowledge graphs, which can then be used to derive additional, missing facts in the knowledge graphs.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Enriching Structured Knowledge with Open Information</title>
+						<uri>http://dl.acm.org/citation.cfm?id=2741139</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Dutta</family>
+								<given>Arnab</given>
+							</creator>
+							<creator>
+								<family>Meilicke</family>
+								<given>Christian</given>
+							</creator>
+							<creator>
+								<family>Stuckenschmidt</family>
+								<given>Heiner</given>
+							</creator>
+						</creators>
+						<quote>This simple but robust approach originates from [7], was applied to mapping OIE facts in [13], and has further been used in [11]</quote>
+						<quote>As already mentioned, we applied the algorithm of [11] for the instance matching task. This algorithm decides between different matching candidates based on their types. </quote>
+						<quote>As experimentally verified with cross-validation in [11] (Section Experiments: Learning), we set to 0.5, the only parameter of the IM module.</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+			<publication>
+				<title>Entity Linking for Open Information Extraction</title>
+				<uri>https://ub-madoc.bib.uni-mannheim.de/36671</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Dutta</family>
+						<given>Arnab</given>
+					</creator>
+					<creator>
+						<family>Schuhmacher</family>
+						<given>Michael</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Automatic creation of knowledge graphs from digital musical document libraries</title>
+						<uri>www.mtg.upf.es/system/files/publications/CIM14_MAIN.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Dutta</family>
+								<given>Arnab</given>
+							</creator>
+							<creator>
+								<family>Meilicke</family>
+								<given>Christian</given>
+							</creator>
+							<creator>
+								<family>Stuckenschmidt</family>
+								<given>Heiner</given>
+							</creator>
+						</creators>
+						<quote>The lack of a proper schema for the output of existing Open IE system limits their suitability to a specific domain, as there is too much ambiguity in extracted facts [21].</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+			<publication>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="8">
+		<doi>10.7801/2</doi>
+		<title>Business Data Manager Experimental Evaluation</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/86</uri>
+		<date>2013</date>
+		<creators>
+			<creator>
+				<family>Gass</family>
+				<given>Oliver</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="9">
+		<doi>10.7801/28</doi>
+		<title>E-Book-Umfrage an der UB Mannheim 2010 - Fragebogen und Ergebnisdatensatz</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/28</uri>
+		<date>2013</date>
+		<creators>
+			<creator>
+				<family>Schumm</family>
+				<given>Irene</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Die E-Book-Umfrage an der UB Mannheim – Zusammenfassung der Ergebnisse</title>
+				<uri>https://ub-madoc.bib.uni-mannheim.de/33134</uri>
+				<date>2012</date>
+				<creators>
+					<creator>
+						<family>Kaiser</family>
+						<given>Jessica</given>
+					</creator>
+					<creator>
+						<family>Klein</family>
+						<given>Annette</given>
+					</creator>
+					<creator>
+						<family>Knudsen</family>
+						<given>Per</given>
+					</creator>
+					<creator>
+						<family>Leichert</family>
+						<given>Gabriele</given>
+					</creator>
+					<creator>
+						<family>Schumm</family>
+						<given>Irene</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="10">
+		<doi>10.7801/23</doi>
+		<title>Evaluation measures for ontology matchers in supervised matching scenarios</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/23</uri>
+		<date>2013</date>
+		<creators>
+			<creator>
+				<family>Ritze</family>
+				<given>Dominique</given>
+			</creator>
+			<creator>
+				<family>Paulheim</family>
+				<given>Heiko</given>
+			</creator>
+			<creator>
+				<family>Eckert</family>
+				<given>Kai</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Evaluation measures for ontology matchers in supervised matching scenarios</title>
+				<uri>http://dx.doi.org/10.1007/978-3-642-41338-4_25</uri>
+				<date>2012</date>
+				<creators>
+					<creator>
+						<family>Ritze</family>
+						<given>Dominique</given>
+					</creator>
+					<creator>
+						<family>Paulheim</family>
+						<given>Heiko</given>
+					</creator>
+					<creator>
+						<family>Eckert</family>
+						<given>Kai</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="11">
+		<doi>10.7801/72</doi>
+		<title>Field Experiment Data</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/72</uri>
+		<date>2013</date>
+		<creators>
+			<creator>
+				<family>Hadasch</family>
+				<given>Frank</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</title>
+				<uri>http://ub-madoc.bib.uni-mannheim.de/36139/</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Hadasch</family>
+						<given>Frank</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="12">
+		<doi>10.7801/73</doi>
+		<title>Lab Experiment Data</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/73/</uri>
+		<date>2013</date>
+		<creators>
+			<creator>
+				<family>Hadasch</family>
+				<given>Frank</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</title>
+				<uri>http://ub-madoc.bib.uni-mannheim.de/36139/</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Hadasch</family>
+						<given>Frank</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="13">
+		<doi>10.7801/71</doi>
+		<title>Survey-Based Experiment Data</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/73/</uri>
+		<date>2013</date>
+		<creators>
+			<creator>
+				<family>Hadasch</family>
+				<given>Frank</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</title>
+				<uri>http://ub-madoc.bib.uni-mannheim.de/36139/</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Hadasch</family>
+						<given>Frank</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="14">
+		<doi>10.7801/111</doi>
+		<title>Data from the paper: Acquisition of behavioral avoidance: Task-irrelevant conditioned stimuli trigger costly decisions</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/111</uri>
+		<date>2013</date>
+		<creators>
+			<creator>
+				<family>Pittig</family>
+				<given>Andre</given>
+			</creator>
+			<creator>
+				<family>Schulz</family>
+				<given>Alexandra R.</given>
+			</creator>
+			<creator>
+				<family>Craske</family>
+				<given>Michelle G.</given>
+			</creator>
+			<creator>
+				<family>Alpers</family>
+				<given>Georg W.</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Acquisition of behavioral avoidance: task-irrelevant conditioned stimuli trigger costly decisions</title>
+				<uri>http://dx.doi.org/10.1037/a0036136</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Pittig</family>
+						<given>Andre</given>
+					</creator>
+					<creator>
+						<family>Schulz</family>
+						<given>Alexandra R.</given>
+					</creator>
+					<creator>
+						<family>Craske</family>
+						<given>Michelle G.</given>
+					</creator>
+					<creator>
+						<family>Alpers</family>
+						<given>Georg W.</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Social and emotional relevance in face processing: happy faces of future interaction partners enhance the late positive potential</title>
+						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4100576/</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Bublatzky</family>
+								<given>Florian</given>
+							</creator>
+							<creator>
+								<family>Gerdes</family>
+								<given>Antje B. M.</given>
+							</creator>
+							<creator>
+								<family>White</family>
+								<given>Andrew J.</given>
+							</creator>
+							<creator>
+								<family>Riemer</family>
+								<given>Martin</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>
+								<given>Georg W.</given>
+							</creator>
+						</creators>
+						<quote>Importantly, future research is needed to connect findings from the perceptual/attentional domain to the functional level, for instance, by testing approach/avoidance behavior (e.g., decision making; Pittig et al., 2014) to socially relevant happy/angry faces in social phobia (Wangelin et al., 2012).</quote>
+						<source>google scholar</source>
+						<source>weofscience</source>
+					</citation>
+					<citation>
+						<title>The cost of fear: avoidant decision making in a spider gambling task</title>
+						<uri>http://www.sciencedirect.com/science/article/pii/S0887618514000292</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Pittig</family>
+								<given>Andre</given>
+							</creator>
+							<creator>
+								<family>Brand</family>
+								<given>matthias</given>
+							</creator>
+							<creator>
+								<family>Pawlikowski</family>
+								<given>Mirko</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>
+								<given>Georg W.</given>
+							</creator>
+						</creators>
+						<quote>Specifically, fearful participants showed avoidant decisions at the beginning of the gambling task when reward contingencies were uncertain. These findings are in line with findings that fearful individuals show initial behavioral avoidance when being confronted with fear-relevant stimuli (Pittig et al., 2014, Rinck and Becker, 2007 and Tolin et al., 1999).</quote>
+						<quote>fear-relevant stimuli may have resulted in less attention towards reward feedback, which in turn may have resulted in impaired learning of an advantageous strategy. Second, past research provided numerous findings for elevated stress responses of fearful individuals during the confrontation with fear-relevant stimuli. For example, pronounced stress responses in fearful individuals have been shown in elevated cortisol, heart rate and skin conductance responses (Alpers et al., 2005, Bublatzky et al., 2010, Fredrikson et al., 1985 and Pittig et al., 2014).</quote>
+						<quote>The sustained relative avoidance of fearful participants in the conflict version, thus, resulted in long-term costs or the loss of rewards. Similar sustained avoidance and resulting costs in decision outcomes gave also been found after aversive fear conditioning (Pittig et al., 2014).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>The impact of sex hormone concentrations on decision-making in females and males</title>
+						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220662/</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Derntl</family>
+								<given>Birgit</given>
+							</creator>
+							<creator>
+								<family>Pintzinger</family>
+								<given>Nina</given>
+							</creator>
+							<creator>
+								<family>Kryspin-Exner</family>
+								<given>Ilse</given>
+							</creator>
+							<creator>
+								<family>Schöpf</family>
+								<given>veronika</given>
+							</creator>
+						</creators>
+						<quote>This fits nicely with that assumption that high trait anxiety is linked with risk-avoidant decision making, which has been shown before (Broman-Fulks et al., 2014; Pittig et al., 2014).</quote>
+						<quote>Interestingly, we observed a significant positive correlation of trait anxiety and high risk selection in the morning group, suggesting more risky decision making in males with higher trait anxiety. This finding contradicts a bulk of literature proclaiming less risk taking in high trait anxious individuals (Pittig et al., 2014). </quote>
+						<source>google scholar</source>
+						<source>weofscience</source>
+					</citation>
+					<citation>
+						<title>Fear and Loathing in the Judicial Process: Comparative Case Studies of Judicial Responses to Terrorism</title>
+						<uri>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2546159</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Krell</family>
+								<given>Matthew Reid</given>
+							</creator>
+						</creators>
+						<quote>The Court’s attempt to place this case in the mainstream of habeas cases, and the dissent’s resistance to that effort, demonstrates the role of fear in this process. Afraid people avoid that which they fear (Pittig et al. 2014).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</title>
+						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Pittig</family>
+								<given>Andre</given>
+							</creator>
+							<creator>
+								<family>Pawlinowski</family>
+								<given>Mirko</given>
+							</creator>
+							<creator>
+								<family>Craske</family>
+								<given>Michelle G.</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>
+								<given>Georg W.</given>
+							</creator>
+						</creators>
+						<quote>In addition, such avoidant decisions can result not only from specific fear-relevant stimuli, such as spiders, but also from novel fear conditioning experience, especially in anxious individuals (Pittig et al., 2014b).</quote>
+						<quote>Recent research on somatic markers using the Iowa gambling task or related paradigms typically investigated skin conductance responses (SCRs) as correlates and predictors of decisions (Bechara et al., 1997; Suzuki et al., 2003; Lawrence et al., 2006; Starcke et al., 2009; Pittig et al., 2014b).</quote>
+						<quote>However, only one study so far reported that elevated SCRs can generalize form fear conditioning and subsequently predict more pronounced avoidant decisions (Pittig et al., 2014b).</quote>
+						<quote>These present results further support recent studies that found similar avoidant decisions in individuals with fear of spiders (Pittig et al., 2014a) and in healthy participants after fear conditioning experience (Pittig et al., 2014b).</quote>
+						<source>google scholar</source>
+						<source>weofscience</source>
+					</citation>
+					<citation>
+						<title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</title>
+						<uri>http://www.sciencedirect.com/science/article/pii/S0005796715300267</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Pittig</family>
+								<given>Andre</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>
+								<given>Georg W.</given>
+							</creator>
+							<creator>
+								<family>Niles</family>
+								<given>Andrea N.</given>
+							</creator>
+							<creator>
+								<family>Craske</family>
+								<given>Michelle G.</given>
+							</creator>
+						</creators>
+						<quote>Resolutions of the resulting approach-avoidance conflicts may be seen as a repeated decision-making process that characterizes the daily life of individuals with anxiety disorders (Pittig et al., 2014 and Stein and Paulus, 2009).</quote>
+						<quote>We recently demonstrated that such initial avoidance may be even more pronounced in individuals with elevated levels of social anxiety (Pittig et al., 2014 and Pittig et al., 2014). These pronounced avoidant decisions may reflect a habitual avoidance tendency and may thus be linked to individual levels of in vivo anxiety, which is thought to drive avoidance.</quote>
+						<quote>The computerized gambling task is based on the Iowa gambling task (Bechara et al., 1994 and Bechara et al., 2000) and was modified to measure the impact of angry facial expressions on decision making (see also Pittig et al., 2014 and Pittig et al., 2014). </quote>
+						<source>google scholar</source>
+						<source>weofscience</source>
+					</citation>				
+				</citations>
+			</publication>
+		</publications>
+	</eprint>	
+	<eprint num="15">
+		<doi>10.7801/112</doi>
+		<title>Data from the paper: Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/112</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Pittig</family>
+				<given>Andre</given>
+			</creator>
+			<creator>
+				<family>Pawlikowski</family>
+				<given>Mirko</given>
+			</creator>
+			<creator>
+				<family>Craske</family>
+				<given>Michelle G.</given>
+			</creator>
+			<creator>
+				<family>Alpers</family>
+				<given>Georg W.</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Avoidant decision making in social anxiety: The interaction of angry faces and emotional responses</title>
+				<uri>http://dx.doi.org/10.3389/fpsyg.2014.01050</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Pittig</family>
+						<given>Andre</given>
+					</creator>
+					<creator>
+						<family>Pawlikowski</family>
+						<given>Mirko</given>
+					</creator>
+					<creator>
+						<family>Craske</family>
+						<given>Michelle G.</given>
+					</creator>
+					<creator>
+						<family>Alpers</family>
+						<given>Georg W.</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</title>
+						<uri>http://www.sciencedirect.com/science/article/pii/S0005796715300267</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Pittig</family>
+								<given>Andre</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>
+								<given>Georg W.</given>
+							</creator>
+							<creator>
+								<family>Niles</family>
+								<given>Andrea N.</given>
+							</creator>
+							<creator>
+								<family>Craske</family>
+								<given>Michelle G.</given>
+							</creator>
+						</creators>
+						<quote>Resolutions of the resulting approach-avoidance conflicts may be seen as a repeated decision-making process that characterizes the daily life of individuals with anxiety disorders (Pittig et al., 2014 and Stein and Paulus, 2009).</quote>
+						<quote>We recently demonstrated that such initial avoidance may be even more pronounced in individuals with elevated levels of social anxiety (Pittig et al., 2014 and Pittig et al., 2014). These pronounced avoidant decisions may reflect a habitual avoidance tendency and may thus be linked to individual levels of in vivo anxiety, which is thought to drive avoidance.</quote>
+						<quote>The computerized gambling task is based on the Iowa gambling task (Bechara et al., 1994 and Bechara et al., 2000) and was modified to measure the impact of angry facial expressions on decision making (see also Pittig et al., 2014 and Pittig et al., 2014). </quote>
+						<source>google scholar</source>
+						<source>weofscience</source>
+					</citation>	
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="16">
+		<doi>10.7801/95</doi>
+		<title>Ex Post Evaluation of Project KMS</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/95</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Schacht</family>
+				<given>Silvia</given>
+			</creator>
+		</creators>
+	</eprint>	
+	<eprint num="17">
+		<doi>10.7801/93</doi>
+		<title>Exploratory Interview Study for Project Knowledge Reuse</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/93</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Schacht</family>
+				<given>Silvia</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="18">
+		<doi>10.7801/94</doi>
+		<title>Pre-Evaluation Results of Project KMS Artifact</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/94</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Schacht</family>
+				<given>Silvia</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="19">
+		<doi>10.7801/90</doi>
+		<title>Multichannel commerce: A consumer perspective on the integration of physical and electronic channels </title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/90</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Trenz</family>
+				<given>Manuel</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="20">
+		<doi>10.7801/87</doi>
+		<title>Data from the paper: Weakly supervised construction of a repository of iconic images</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/87</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Weiland</family>
+				<given>Lydia</given>
+			</creator>
+			<creator>
+				<family>Effelsberg</family>
+				<given>Wolfgang</given>
+			</creator>
+			<creator>
+				<family>Ponzetto</family>
+				<given>Simone Paolo</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Weakly supervised construction of a repository of iconic images</title>
+				<uri>http://www.aclweb.org/anthology/W14-5410</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Weiland</family>
+						<given>Lydia</given>
+					</creator>
+					<creator>
+						<family>Effelsberg</family>
+						<given>Wolfgang</given>
+					</creator>
+					<creator>
+						<family>Ponzetto</family>
+						<given>Simone Paolo</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="21">
+		<doi>10.7801/80</doi>
+		<title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/80</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Brhel</family>
+				<given>Manuel</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Exploring principles of user-centered agile software development: A literature review</title>
+				<uri>http://dx.doi.org/10.1016/j.infsof.2015.01.004</uri>
+				<date>2015</date>
+				<creators>
+					<creator>
+						<family>Brhel</family>
+						<given>Manuel</given>
+					</creator>
+					<creator>
+						<family>Meth</family>
+						<given>Hendrik</given>
+					</creator>
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>
+					<creator>
+						<family>Werder</family>
+						<given>Karl</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Overcoming Challenges in Agile User Experience Work: Cross-Case Analysis of Two Large Software Organizations</title>
+						<uri>ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7302488</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Kuusinen</family>
+								<given>Kati</given>
+							</creator>
+						</creators>
+						<quote>By UX work we refer to activities that aim at developing software that is usable, fulfills user needs, and provides desired UX. Most of the research on agile UX work suggests conducting some upfront design before starting agile development iterations [1]. During the implementation phase, current approaches on agile UX work understand UX work as a stream separate from development work [1].</quote>
+						<quote>There is contradictory evidence in the earlier research on whether the software development team and UX team should operate separately or in cross-functional teams [1].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Task Allocation Between UX Specialists and Developers in Agile Software Development Projects</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-319-22698-9_3</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Kuusinen</family>
+								<given>Kati</given>
+							</creator>
+						</creators>
+						<quote>Little is known about the actual daily work and task allocation between developers and UXSs. The majority of agile UX research has concentrated on the development process or on endeavors to modify user-centered design (UCD) practices so that they will be better suited for agile development [6].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Continuous User Experience Development</title>
+						<uri><![CDATA[https://books.google.de/books?hl=de&lr=&id=lEquCgAAQBAJ&oi=fnd&pg=PA233&ots=8UJy5d6tdR&sig=gdvKgVW7-OB_fBialpAfcXmdpxE#v=onepage&q&f=false]]></uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Kuusinen</family>
+								<given>Kati</given>
+							</creator>
+						</creators>
+						<quote>According to a recent systematic literature review [3], current approaches for agile UCD emphasize the role of keeping the UX design work ahead of development, often by iteration or more. In addition, most of the research on agile UCD interaction considers it necessary to conduct some design upfront work before starting agile development iterations [3].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>OpenUP/MMU-ISO Process Updated According to the Activities and Recommendations of the ISO 9241-210 Standard</title>
+						<uri>http://www.researchandinnovationbook.com/PROCEEDINGS/CITA2015/Archives/papers/paper28.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Farinango</family>
+								<given>C. D.</given>
+							</creator>
+							<creator>
+								<family>Benavides</family>
+								<given>J. S.</given>
+							</creator>
+							<creator>
+								<family>López</family>
+								<given>D. M.</given>
+							</creator>
+						</creators>
+						<quote>En las últimas décadas la visión mecanizada del desarrollo software presente en los acercamientos lineales, basados en fases o tipo cascada, ha sido reemplazada por procesos más dinámicos, caracterizado por ciclos iterativos y la participación activa de los interesados [1].</quote>
+						<source>google scholar</source>
+					</citation>	
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="22">
+		<doi>10.7801/67</doi>
+		<title>Detecting Meaningful Compounds in Complex Class Labels (Experimental Results)</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/67</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Meilicke</family>
+				<given>Christian</given>
+			</creator>
+		</creators>
+		<comment>Gleichnamiges Paper wird erwähnt, wird allerdings nicht verlinkt und kann nicht gefunden werden. Thematische Relation zu eprint num="7" wird vermutet</comment>
+	</eprint>
+	<eprint num="23">
+		<doi>10.7801/60</doi>
+		<title>Effects of Cultural Intelligence in Cross-Cultural Virtual Collaboration - Experimental data</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/60</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Li</family>
+				<given>Ye</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Uncovering the Effects of Cultural Intelligence on Cross-Cultural Virtual Collaboration Processes</title>
+				<uri>http://dx.doi.org/10.1007/978-3-642-39137-8_27</uri>
+				<date>2013</date>
+				<creators>
+					<creator>
+						<family>Li</family>
+						<given>Ye</given>
+					</creator>
+					<creator>
+						<family>Skulason</family>
+						<given>Asgeir</given>
+					</creator>
+				</creators>
+			</publication>
+			<publication>
+				<title>"Are You a Trustworthy Partner in a Cross-cultural Virtual Environment?" – Behavioral Cultural Intelligence and Receptivity-based Trust in Virtual Collaboration</title>
+				<uri>http://dl.acm.org/citation.cfm?id=2160895</uri>
+				<date>2012</date>
+				<creators>
+					<creator>
+						<family>Li</family>
+						<given>Ye</given>
+					</creator>
+					<creator>
+						<family>Li</family>
+						<given>Hui</given>
+					</creator>
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>
+					<creator>
+						<family>Rau</family>
+						<given>Pei-Luen Patrick</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Extending Role of “I” Virtually–Identity Performance and Their Influence on Individual Behaviour and Team Performance in Globally Distributed Work Virtual Teams</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-642-39137-8_21</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Akhilesg</family>
+								<given>K.B.</given>
+							</creator>
+							<creator>
+								<family>Sindhuja</family>
+								<given>C.V.</given>
+							</creator>
+							<creator>
+								<family>Kahai</family>
+								<given>Simran K.</given>
+							</creator>
+						</creators>
+						<quote>A study on cross cultural virtual environment found that behavioral cultural intelligence strongly influence the virtual team member’s trust, which is governed by the language proficiency, team members satisfaction and technical skills [43].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Designing tools to support advanced users in new forms of social media interaction</title>
+						<uri>http://dl.acm.org/citation.cfm?id=2775462</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Jung</family>
+								<given>Hyunggu</given>
+							</creator>
+							<creator>
+								<family>Hong</family>
+								<given>Sungsoo (Ray)</given>
+							</creator>
+							<creator>
+								<family>Meas</family>
+								<given>Perry</given>
+							</creator>
+							<creator>
+								<family>Zachry</family>
+								<given>Mark</given>
+							</creator>
+						</creators>
+						<quote> Li et al. [14] studied the relationship between team individuals’ status or performance and trust. These studies illustrate the need to visualize individual work characteristics within a specific work context. Our tool adopts that perspective by visualizing Wikipedia editors’ work within the context of a given WikiProject. Swift trust can be influenced by some qualitative aspects as well.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>
+						<title>Uncovering the Effects of Cultural Intelligence on Cross-Cultural Virtual Collaboration Processes</title>
+						<uri>link.springer.com/chapter/10.1007/978-3-642-39137-8_27</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Li</family>
+								<given>Ye</given>
+							</creator>
+							<creator>
+								<family>Skulason</family>
+								<given>Asgeir</given>
+							</creator>
+						</creators>
+						<quote>Li et al. [10] conducted an experiment on cross-cultural virtual collaboration with students and they found that individuals’ behavioral CQ predicted their partners’ receptivity-based trust, which in turn predicted the partners’ satisfaction.</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="24">
+		<doi>10.7801/62</doi>
+		<title>Effects of process ambidexterity on coordination and outcomes in software project teams - surevy data</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/62</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Li</family>
+				<given>Ye</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="25">
+		<doi>10.7801/61</doi>
+		<title>Formulating Effective Coordination Strategies in Agile Global Software Development Teams - Interview transcripts</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/61</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Li</family>
+				<given>Ye</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Formulating Effective Coordination Strategies in Agile Global Software Development Teams</title>
+				<uri>http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/36/</uri>
+				<date>2012</date>
+				<creators>
+					<creator>
+						<family>Li</family>
+						<given>Ye</given>
+					</creator>		
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>			
+				</creators>
+				<citations>
+					<citation>	
+						<title>Coordination in Large-Scale Agile Software Development: A Multiteam Systems Perspective</title>
+						<uri><![CDATA[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6759189&tag=1]]></uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Scheerer</family>
+								<given>Alexander</given>
+							</creator>
+							<creator>
+								<family>Hildenbrand</family>
+								<given>Tobias</given>
+							</creator>
+							<creator>
+								<family>Kude</family>
+								<given>Thomas</given>
+							</creator>
+						</creators>
+						<quote>They present a coordination strategy which includes synchronization, structure and boundary spanning as key elements which influence coordination effectiveness [59]. Furthermore, intensified communication was observed as a facilitator of mutual trust and shared cognition by Li and Maedche [28].</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>	
+						<title>State-of-the-Art: A Systematic Literature Review on Agile Information Systems Development</title>
+						<uri><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6759181]]></uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Hummel</family>
+								<given>Markus</given>
+							</creator>
+						</creators>
+						<quote>Li [and] Maedche [61] use coordination theory to explain coordination strategies in distributed agile ISD projects.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>	
+						<title>Exploring Coordination in Large-Scale Agile Software Development: A Multiteam Systems Perspective</title>
+						<uri>http://aisel.aisnet.org/icis2014/proceedings/ProjectManagement/17/</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Scheerer</family>
+								<given>Alexander</given>
+							</creator>
+							<creator>
+								<family>Kude</family>
+								<given>Thomas</given>
+							</creator>
+						</creators>
+						<quote>Furthermore, intensified communication was observed as a facilitator of mutual trust and shared cognition by Li and Maedche (2012).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>	
+						<title>MITIGATION APPROACHES FOR COMMON ISSUES AND CHALLENGES WHEN USING SCRUM IN GLOBAL SOFTWARE DEVELOPMENT</title>
+						<uri><![CDATA[http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A830730&dswid=4164]]></uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Rahman</family>
+								<given>Md. Shoaib</given>
+							</creator>
+							<creator>
+								<family>Das</family>
+								<given>Arijit</given>
+							</creator>
+						</creators>
+						<quote>[A7] Formulating Effective Coordination Strategies in Agile Global Software Development Teams</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="26">
+		<doi>10.7801/57</doi>
+		<title>A Gold Standard of Meaningful Compounds in Complex Class Labels</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/57</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Stuckenschmidt</family>
+				<given>Heiner</given>
+			</creator>
+			<creator>
+				<family>Ponzetto</family>
+				<given>Simone Paolo</given>
+			</creator>
+			<creator>
+				<family>Meilicke</family>
+				<given>Christian</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="27">
+		<doi>10.7801/113</doi>
+		<title>Data from the paper: The cost of fear: Avoidant decision making in a spider gambling task</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/113</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Pittig</family>
+				<given>Andre</given>
+			</creator>
+			<creator>
+				<family>Brand</family>
+				<given>Matthias</given>
+			</creator>
+			<creator>
+				<family>Pawlikowski</family>
+				<given>Mirko</given>
+			</creator>
+			<creator>
+				<family>Alpers</family>
+				<given>Georg W.</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>The cost of fear: Avoidant decision making in a spider gambling task</title>
+				<uri>http://dx.doi.org/10.1016/j.janxdis.2014.03.001</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Pittig</family>
+						<given>Andre</given>
+					</creator>
+					<creator>
+						<family>Brand</family>
+						<given>Matthias</given>
+					</creator>
+					<creator>
+						<family>Pawlikowski</family>
+						<given>Mirko</given>
+					</creator>
+					<creator>
+						<family>Alpers</family>
+						<given>Georg W.</given>
+					</creator>			
+				</creators>
+				<citations>
+					<citation>	
+						<title>Emotional pictures and sounds: a review of multimodal interactions of emotion cues in multiple domains</title>
+						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4248815/</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Gerdes</family>
+								<given>Antje B. M.</given>
+							</creator>
+							<creator>
+								<family>Wieser</family>
+								<given>Matthias J.</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>
+								<given>Georg W.</given>
+							</creator>
+						</creators>
+						<quote>The use of different paradigms would help inform us about the different stages at which presumably emotional cues from different modalities interact. Recently, novel paradigms have been introduced to examine the behavioral output of preferentially processed emotional cues (see, e.g., Pittig et al., 2014). If integrated multimodal cues result in a more intensive emotional experience (and neural processing), this may also result in more pronounced behavioral consequences.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>	
+						<title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</title>
+						<uri>ref09</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Pittig</family>
+								<given>Andre</given>
+							</creator>
+							<creator>
+								<family>Pawlikowski</family>
+								<given>Mirko</given>
+							</creator>
+							<creator>
+								<family>Craske</family>
+								<given>Michelle G.</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>
+								<given>Georg W.</given>
+							</creator>
+						</creators>
+						<quote>We recently combined these features in a novel experimental paradigm to investigate behavioral avoidance as a decision-making process (Pittig et al., 2014a).</quote>
+						<quote>To address this issue in order to evaluate whether repeated decisions are altered by subclinical levels of social anxiety and a tendency for social avoidance, the present study used a gambling task in which advantageous decisions were linked to angry facial expressions (similar to Pittig et al., 2014a,b).</quote>
+						<quote>These present results further support recent studies that found similar avoidant decisions in individuals with fear of spiders (Pittig et al., 2014a) and in healthy participants after fear conditioning experience (Pittig et al., 2014b).</quote>
+						<quote>This findings differs from our previous findings in a sample of spider fearful participants, where avoidant decisions were more consistent (Pittig et al., 2014a). </quote>
+						<quote>Results from our study in fear of spiders suggest that effects of fear-relevant stimuli on avoidant decisions may be similar in above-threshold individuals (Pittig et al., 2014a).</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>	
+						<title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</title>
+						<uri>http://www.sciencedirect.com/science/article/pii/S0005796715300267</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Pittig</family>
+								<given>Andre</given>
+							</creator>
+							<creator>
+								<family>Alpers</family>
+								<given>Georg W.</given>
+							</creator>
+							<creator>
+								<family>Niles</family>
+								<given>Andrea N.</given>
+							</creator>
+							<creator>
+								<family>Craske</family>
+								<given>Michelle G.</given>
+							</creator>
+						</creators>
+						<quote>We recently demonstrated that such initial avoidance may be even more pronounced in individuals with elevated levels of social anxiety (Pittig et al., 2014 and Pittig et al., 2014).</quote>
+						<quote>The computerized gambling task is based on the Iowa gambling task (Bechara et al., 1994 and Bechara et al., 2000) and was modified to measure the impact of angry facial expressions on decision making (see also Pittig et al., 2014 and Pittig et al., 2014). </quote>
+						<quote>These results are in line with recent findings that anxious individuals avoid fear-relevant stimuli, even if avoidance results in costs and impairments (Pittig et al., 2014 and Pittig et al., 2014).</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="28">
+		<doi>10.7801/76</doi>
+		<title>Form and function - designing successful mobile data services - Survey Data </title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/76</uri>
+		<date>2014</date>
+		<creators>
+			<creator>
+				<family>Botzenhardt</family>
+				<given>Achim</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="29">
+		<doi>10.7801/149</doi>
+		<title>Experiment Data Set - Design Cycle Two</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/149</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Morana</family>
+				<given>Stefan</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="30">
+		<doi>10.7801/148</doi>
+		<title>Interviews and Workshops - Design Cycle One</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/148</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Morana</family>
+				<given>Stefan</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Designing a Process Guidance System to Support User’s Business Process Compliance</title>
+				<uri> 	https://ub-madoc.bib.uni-mannheim.de/37039</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Morana</family>
+						<given>Stefan</given>
+					</creator>
+					<creator>
+						<family>Schacht</family>
+						<given>Silvia</given>
+					</creator>
+					<creator>
+						<family>Scherp</family>
+						<given>Ansgar</given>
+					</creator>
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>			
+				</creators>
+				<citations>
+					<citation>	
+						<title>ITSM ProcessGuide–A Process Guidance System for IT Service Management</title>
+						<uri>http://link.springer.com/chapter/10.1007/978-3-319-18714-3_32</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Morana</family>
+								<given>Stefan</given>
+							</creator>
+							<creator>
+								<family>Gerards</family>
+								<given>Timo</given>
+							</creator>
+							<creator>
+								<family>Maedche</family>
+								<given>Alexander</given>
+							</creator>
+						</creators>
+						<quote>In order to address these challenges, the users require support in the execution of the processes in the ticket systems as well as the learning of the underlying ticket processes. Process Guidance Systems (PGS) address these challenges [2]</quote>
+						<quote>While we reported the conceptualization of PGS in another paper [2], in this paper we shortly present the design, implementation, and ongoing evaluation of a PGS instantiation in an organizational setting. This research is part of our ongoing Design Science Research (DSR) project following the guidelines by Kuechler [and] Vaishnavi [6].</quote>
+						<quote>The first cycle served for the conceptualization of PGS, the derivation of three theory-grounded Design Principles (DPs), and the qualitative evolution of the DPs in our case company [2].</quote>
+						<quote>Based on our prior research, PGS should base on three theory-driven DPs [2]</quote>
+						<quote>For the implementation of the new PGS, we used the six Design Decisions (DDs) from the first PGS prototype [2] as a baseline, but modified them and added new DDs in order to develop the PGS for its intended purpose.</quote>
+						<source>google scholar</source>
+					</citation>
+					<citation>	
+						<title>ITSM ProcessGuide–a longitudinal and multi-method field study for real-world DSR artifact evaluation</title>
+						<uri>https://cora.ucc.ie/handle/10468/1814</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Morana</family>
+								<given>Stefan</given>
+							</creator>
+							<creator>
+								<family>Schacht</family>
+								<given>Silvia</given>
+							</creator>
+							<creator>
+								<family>Gerards</family>
+								<given>Timo</given>
+							</creator>
+							<creator>
+								<family>Maedche</family>
+								<given>Alexander</given>
+							</creator>
+						</creators>
+						<quote>In the first cycle, we analyzed the current situation in our case company with respect to the execution of document-related processes [10].</quote>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="31">
+		<doi>10.7801/151</doi>
+		<title>Interviews and Workshop - Design Cycle Three</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/151</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Morana</family>
+				<given>Stefan</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="32">
+		<doi>10.7801/150</doi>
+		<title>Survey Data Set - Design Cycle Three</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/150</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Morana</family>
+				<given>Stefan</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="33">
+		<doi>10.7801/152</doi>
+		<title>Ticketing Processes - Design Cycle Three</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/152</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Morana</family>
+				<given>Stefan</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="34">
+		<doi>10.7801/145</doi>
+		<title>Supplements to the paper: Understanding Digitization across Processes and their Phases – An Extension of Process Virtualization Theory</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/145</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Graupner</family>
+				<given>Enrico</given>
+			</creator>
+		</creators>
+		<comment>Gleichnamiges Paper wird erwähnt, wird allerdings nicht verlinkt und kann nicht gefunden werden</comment>
+	</eprint>
+	<eprint num="35">
+		<doi>10.7801/145</doi>
+		<title> the paper: Process Digitization in Retail Banking – An Empirical Examination of Process Virtualization Theory</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/145</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Graupner</family>
+				<given>Enrico</given>
+			</creator>
+		</creators>
+		<comment>Gleichnamiges Paper wird erwähnt, wird allerdings nicht verlinkt und kann nicht gefunden werden</comment>
+	</eprint>
+	<eprint num="36">
+		<doi>10.7801/136</doi>
+		<title>Reverb Instance and Relation gold standard</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/136</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Dutta</family>
+				<given>Arnab</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="37">
+		<doi>10.7801/134</doi>
+		<title>Supplements to the paper: Customers' Intention to Use Digital Services in Retail Banking – An Information Processing Perspective</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/134</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Graupner</family>
+				<given>Enrico</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Supplements to the paper: Customers' Intention to Use Digital Services in Retail Banking – An Information Processing Perspective</title>
+				<uri>http://aisel.aisnet.org/ecis2015_cr/61/</uri>
+				<date>2015</date>
+				<creators>
+					<creator>
+						<family>Graupner</family>
+						<given>Enrico</given>
+					</creator>
+					<creator>
+						<family>Melcher</family>
+						<given>Fabian</given>
+					</creator>
+					<creator>
+						<family>Demers</family>
+						<given>Daniel</given>
+					</creator>
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="38">
+		<doi>10.7801/127</doi>
+		<title>Systematic Literature Review “Enterprise Systems Chartering” –Review Procedure and Analysis Results</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/127</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Berner</family>
+				<given>Martin</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="39">
+		<doi>10.7801/121</doi>
+		<title>Understanding the Impact of Social and Ambidextrous Knowing-in-practice on the Effective Use of Enterprise Systems</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/121</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Lauterbach</family>
+				<given>Jens</given>
+			</creator>
+		</creators>
+	</eprint>
+	<eprint num="40">
+		<doi>10.7801/68</doi>
+		<title>Interview Data for the following study: Hadasch, F., Mueller, B., and Maedche, A. (2012). Exploring antecedent environmental and organizational factors to user-caused information leaks: A qualitative study. Proceedings of the 20th European Conference on Information Systems.</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/68</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Hadasch</family>
+				<given>Frank</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Exploring Antecedent Environmental and Organizational Factors to User-Caused Information Leaks: a Qualitative Study</title>
+				<uri><![CDATA[http://aisel.aisnet.org/cgi/viewquote.cgi?article=1126&context=ecis2012]]></uri>
+				<date>2015</date>
+				<creators>
+					<creator>
+						<family>Hadasch</family>
+						<given>Frank</given>
+					</creator>
+					<creator>
+						<family>Mueller</family>
+						<given>Benjamin</given>
+					</creator>
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Enterprise Systems - A Research Agenda</title>
+						<uri>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</uri>
+						<date>2012</date>
+						<creators>
+							<creator>
+								<family>Maedche</family>
+								<given>Alexander</given>
+							</creator>
+							<creator>
+								<family>Mueller</family>
+								<given>Benjamin</given>
+							</creator>
+						</creators>
+						<quote>We are currently investigating issues such as culture (Li et al. 2012) , security (Hadasch et al. 2012), cross-organizational integration (Koppenhagen et al. 2011), knowledge management, social media (Räth and Mueller 2012) and strategic management of IS function and their impact on how organizations react to technology and how technology is shaped by organizations.</quote>
+						<source>google charts</source>
+					</citation>
+					<citation>
+						<title>Information security awareness and behavior: a theory-based literature review</title>
+						<uri>http://dx.doi.org/10.1108/MRR-04-2013-0085</uri>
+						<date>2014</date>
+						<creators>
+							<creator>
+								<family>Lebek</family>
+								<given>Benedikt</given>
+							</creator>
+							<creator>
+								<family>Uffen</family>
+								<given>Jörg</given>
+							</creator>
+							<creator>
+								<family>Neumann</family>
+								<given>Markus</given>
+							</creator>
+							<creator>
+								<family>Hohler</family>
+								<given>Bernd</given>
+							</creator>
+							<creator>
+								<family>Breitner</family>
+								<given>Michael H.</given>
+							</creator>
+						</creators>
+						<quote>[Further reading]</quote>
+						<source>google charts</source>
+					</citation>
+					<citation>
+						<title>Fuzzy Assessment of Health Information System Users' Security Awareness</title>
+						<uri>http://link.springer.com/article/10.1007/s10916-013-9984-x</uri>
+						<date>2013</date>
+						<creators>
+							<creator>
+								<family>Aydin</family>
+								<given>Özlem Müge</given>
+							</creator>
+							<creator>
+								<family>Chouseinoglou</family>
+								<given>Oumout</given>
+							</creator>
+						</creators>
+						<quote>To reduce the risks of such security incidents, organizations try to promote and increase security awareness; however, results show that overall IS security awareness is limited [8–10] and [4] conclude that despite the undertaken approaches and the use of security tools, humans remain the weakest link in IS security, with respect to the incidents they result to and the costs that are incurred.</quote>
+						<source>google charts</source>
+					</citation>
+					<citation>
+						<title>Financial Market Surveillance Decision Support: An Explanatory Design Theory</title>
+						<uri>https://domino.fov.uni-mb.si/proceedings.nsf/Proceedings/08209464067DDF2AC1257E5B0048279B/$File/1_Alic.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Alić</family>
+								<given>Irina</given>
+							</creator>
+						</creators>
+						<quote>The data collected in collaborative meetings was analysed instantly within the team of practitioners, users, and scientists. In each meeting, the initial question served as both a starting point for discussions and a focus point for the resultant discussion on gaining a better understanding of market abuse. The attributes were used to enhance understanding of the phenomenon (Hadasch, Mueller, and Maedche, 2012).</quote>
+						<source>google charts</source>
+					</citation>
+				</citations>
+			</publication>
+			<publication>
+				<title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</title>
+				<uri>http://ub-madoc.bib.uni-mannheim.de/36139/</uri>
+				<date>2014</date>
+				<creators>
+					<creator>
+						<family>Hadasch</family>
+						<given>Frank</given>
+					</creator>
+				</creators>
+			</publication>
+		</publications>
+	</eprint>
+	<eprint num="41">
+		<doi>10.7801/129</doi>
+		<title>Supplements to the paper: Visibility of Business Processes - An Information Processing Perspective in the Financial Services Industry</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/129</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Graupner</family>
+				<given>Enrico</given>
+			</creator>
+		</creators>
+		<publications>
+			<publication>
+				<title>Visibility of Business Processes - An Information Processing Perspective in the Financial Services Industry</title>
+				<uri>http://aisel.aisnet.org/ecis2015_cr/60/</uri>
+				<date>2015</date>
+				<creators>
+					<creator>
+						<family>Graupner</family>
+						<given>Enrico</given>
+					</creator>
+					<creator>
+						<family>Schewer</family>
+						<given>Carsten</given>
+					</creator>
+					<creator>
+						<family>Maedche</family>
+						<given>Alexander</given>
+					</creator>
+				</creators>
+				<citations>
+					<citation>
+						<title>Process Visibility Requirements and Capabilities-Conceptual Perspectives and Operationalization</title>
+						<uri>http://web.eris.uni-mannheim.de/website_supplements/theses/attachments%5C326%5CThesis%20proposal%20final.pdf</uri>
+						<date>2015</date>
+						<creators>
+							<creator>
+								<family>Kalidindi</family>
+								<given>Venkata Suresh</given>
+							</creator>
+						</creators>
+						<source>google scholar</source>
+					</citation>
+				</citations>
+			</publication>
+		</publications>
+	</eprint>		
+	<eprint num="42">
+		<doi>10.7801/118</doi>
+		<title>Interpretive case study on ES Transformation - Interview Data</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/118</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Kahrau</family>
+				<given>Felix</given>
+			</creator>
+		</creators>
+	</eprint>		
+	<eprint num="43">
+		<doi>10.7801/142</doi>
+		<title>Affect and the weight of idealistic and pragmatic concerns in decision situations</title>
+		<uri>https://madata.bib.uni-mannheim.de/id/eprint/142</uri>
+		<date>2015</date>
+		<creators>
+			<creator>
+				<family>Burger</family>
+				<given>Axel M.</given>
+			</creator>
+		</creators>
+	</eprint>	
+</data>
+
+

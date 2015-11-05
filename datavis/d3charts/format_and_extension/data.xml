@@ -1,0 +1,23 @@
+<data xmlns="http://eprints.org/ep2/data/2.0">
+  <count formext="other AND jpg">92</count>
+  <count formext="other AND txt">41</count>
+  <count formext="text AND pdf">21</count>
+  <count formext="other AND sav">15</count>
+  <count formext="text AND docx">15</count>
+  <count formext="archive AND zip">13</count>
+  <count formext="csv AND xlsx">10</count>
+  <count formext="csv AND xls">7</count>
+  <count formext="archive AND gz">7</count>
+  <count formext="text AND txt">4</count>
+  <count formext="other AND xls">3</count>
+  <count formext="csv AND csv">3</count>
+  <count formext="text AND csv">2</count>
+  <count formext="text AND doc">2</count>
+  <count formext="other AND xlsx">2</count>
+  <count formext="image AND png">1</count>
+  <count formext="image AND jpg">1</count>
+  <count formext="text AND sql">1</count>
+  <count formext="text AND html">1</count>
+  <count formext="other AND Tos_Ext_raw">1</count>
+  <count formext="other AND Tos_Ext_hist">1</count>
+</data>
