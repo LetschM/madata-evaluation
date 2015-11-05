@@ -11,7 +11,7 @@
       // Set a callback to run when the Google Visualization API is loaded.
       google.setOnLoadCallback(loadData);
 
-      arr = [['License', 'Datasets']];
+      arr = [['License', 'Files']];
 
       function loadData() {
         console.log('yay');
@@ -46,8 +46,8 @@
         };
 
         var el = document.getElementById('chart_div');
-        var chart = null
-        if ("column" === "pie") {
+        var chart = new  google.visualization.PieChart(el);
+/*        if ("column" === "pie") {
             chart = new  google.visualization.PieChart(el);
         } else if ("column" === 'bar') {
             chart = new google.visualization.BarChart(el);
@@ -60,7 +60,7 @@
         } else if ("column" === 'hist') {
             chart = new google.visualization.Histogram(el);
             options['isStacked'] = 'true';
-        }
+        } */
 
         chart.draw(data, options);
       }

@@ -5,7 +5,7 @@ import module namespace functx = 'http://www.functx.com';
 {
 for $time in //datestamp/text()
   let $b := substring-before($time, " ") 
-  order by $b descending
+  order by $b
   group by $b
   return <count date="{$b}">
   

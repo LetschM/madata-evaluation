@@ -11,7 +11,7 @@
       // Set a callback to run when the Google Visualization API is loaded.
       google.setOnLoadCallback(loadData);
 
-      arr = [['Extension', 'Files']];
+      arr = [['', 'Units']];
 
       function loadData() {
         console.log('yay');
@@ -22,7 +22,7 @@
             var dom = req.responseXML;
             var counts = dom.getElementsByTagName('count');
             for (var i = 0 ; i < counts.length ; i++) {
-              arr.push([counts[i].getAttribute('ext'), parseInt(counts[i].textContent)]);
+              arr.push([counts[i].getAttribute('comment'), parseInt(counts[i].textContent)]);
             }
             drawChart();
           }
@@ -39,15 +39,15 @@
         var data = google.visualization.arrayToDataTable(arr);
 
         // Set chart options
-        var options = {'title':"Total amount of file extensions",
+        var options = {'title':"Madata Overview",
             'width':800,
             'height':800,
             bar: { groupWidth: '75%' },
         };
 
         var el = document.getElementById('chart_div');
-        var chart = new google.visualization.PieChart(el);
- /*       if ("column" === "pie") {
+        var chart = chart = new google.visualization.BarChart(el)
+/*		if ("column" === "pie") {
             chart = new  google.visualization.PieChart(el);
         } else if ("column" === 'bar') {
             chart = new google.visualization.BarChart(el);
@@ -60,7 +60,7 @@
         } else if ("column" === 'hist') {
             chart = new google.visualization.Histogram(el);
             options['isStacked'] = 'true';
-        } */
+        }  */
 
         chart.draw(data, options);
       }

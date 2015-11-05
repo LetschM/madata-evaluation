@@ -11,7 +11,7 @@
       // Set a callback to run when the Google Visualization API is loaded.
       google.setOnLoadCallback(loadData);
 
-      arr = [['license and Security', 'Datasets']];
+      arr = [['license and Security', 'Files']];
 
       function loadData() {
         console.log('yay');
@@ -39,7 +39,7 @@
         var data = google.visualization.arrayToDataTable(arr);
 
         // Set chart options
-        var options = {'title':"ePrints by License",
+        var options = {'title':"License and Security",
             'width':800,
             'height':800,
             bar: { groupWidth: '75%' },

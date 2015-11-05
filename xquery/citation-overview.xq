@@ -6,9 +6,9 @@ let $c := //citation
 
 return
 <data>
-<epr>{count($a)}</epr>
-<pub>{count($b)}</pub>
-<cit>{count($c)}</cit>
+<count>{count($a)}</count>
+<count>{count($b)}</count>
+<count>{count($c)}</count>
 </data>
 
 
