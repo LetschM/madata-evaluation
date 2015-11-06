@@ -1,6 +1,14 @@
 madata-evaluation
 =================
 
+Prerequisites
+-------------
+
+* Basex (`sudo apt-get install basex`)
+* xclip (`sudo apt-get install xclip`)
+* graphviz (`sudo apt-get install graphviz`)
+
+
 Building the citation graph
 ---------------------------
 
