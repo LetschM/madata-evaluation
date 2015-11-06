@@ -29,6 +29,11 @@ let $all_lines := for $eprint in //eprint
       $indent, $creator, $arrow, $madata, $semicolon, $nl)
   let $madataToPublication := for $publicationElem in $eprint/publications/publication
     let $publication := concat('"pub:', local:slugify($publicationElem/title), '"')
+    let $publicationToCreator := for $creatorElem in $publicationElem/creators/creator
+      let $creator := concat('"', $creatorElem/family/text(), '"')
+      return concat(
+          $indent, $creator,  $creator_attr, $semicolon, $nl,
+          $indent, $creator, $arrow, $publication, $semicolon, $nl)
     let $publicationToCitation := for $citationElem in $publicationElem/citations/citation
       let $citation := concat('"cit:', local:slugify($citationElem/title), '"')
       let $citationToCreator := for $creatorElem in $citationElem/creators/creator
@@ -42,6 +47,7 @@ let $all_lines := for $eprint in //eprint
         $indent, $publication, $arrow, $citation, $semicolon, $nl)
     return concat(
       string-join($publicationToCitation),
+      string-join($publicationToCreator),
       $indent, $publication, $publication_attr, $semicolon, $nl,
       $indent, $publication, $arrow, $madata, $semicolon, $nl
     )
