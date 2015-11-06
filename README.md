@@ -9,4 +9,4 @@ Building the citation graph
 * Run the query `xquery/citations.xq`
 * Copy the result
 * Open a terminal
-* Run `xclip -o | sed 's/-&gt;/->/' |dot -Tsvg -ocitations.svg`
+* Run `xclip -o | sed 's/-&gt;/->/' |dot -Kcirco -Tsvg -ocitations.svg`
