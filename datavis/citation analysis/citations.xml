@@ -3,7 +3,7 @@
 	<eprint num="1">
 		<doi>10.7801/1</doi>
 		<title>Analyse der Tag-Struktur in Bibsonomy</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/1</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/1</url>
 		<date>2010</date>
 		<creators>
 			<creator>
@@ -22,7 +22,7 @@
 		<publications>
 			<publication>
 				<title>Tagging and Automation - Challenges and Chances for Academic Libraries</title>
-				<uri>http://www.emeraldinsight.com/doi/full/10.1108/07378830911007664</uri>
+				<url>http://www.emeraldinsight.com/doi/full/10.1108/07378830911007664</url>
 				<date>2009</date>
 				<creators>
 					<creator>
@@ -41,7 +41,7 @@
 				<citations>
 					<citation>
 						<title>Tagging for libraries: A review of the effectiveness of tagging systems for library catalogs</title>
-						<uri>http://www.tandfonline.com/doi/abs/10.1080/19386389.2013.778730#.VjdzlJeVtUQ</uri>
+						<url>http://www.tandfonline.com/doi/abs/10.1080/19386389.2013.778730#.VjdzlJeVtUQ</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -53,19 +53,19 @@
 					</citation>
 					<citation>
 						<title>基于概念格的 Folksonomy 知识组织研究——TagCloud 的层级体系构建</title>
-						<uri>http://www.cqvip.com/qk/95888x/201202/40920550.html</uri>
+						<url>http://www.cqvip.com/qk/95888x/201202/40920550.html</url>
 						<date>2012</date>
 						<source>google scholar</source>
 					</citation>
 					<citation>
 						<title>国外图书馆管理研究述评</title>
-						<uri>http://www.cqvip.com/qk/93480x/201305/47338454.html</uri>
+						<url>http://www.cqvip.com/qk/93480x/201305/47338454.html</url>
 						<date>2012</date>
 						<source>google scholar</source>
 					</citation>
 					<citation>
 						<title>User tagging for digital archives: the case of commercial keywords from the grand secretariat</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-642-24826-9_21</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-642-24826-9_21</url>
 						<date>2011</date>
 						<creators>
 							<creator>
@@ -77,13 +77,13 @@
 					</citation>
 					<citation>
 						<title>基于标签与群组的学术博客在开放存取平台中的应用研究</title>
-						<uri>http://www.cqvip.com/qk/90226x/201209/43330105.html</uri>
+						<url>http://www.cqvip.com/qk/90226x/201209/43330105.html</url>
 						<date>2012</date>
 						<source>google scholar</source>
 					</citation>
 					<citation>
 						<title>quote analysis of social tags on intersectionality for works on Asian women: an exploratory study of LibraryThing</title>
-						<uri>http://trace.tennessee.edu/utk_gradthes/988/</uri>
+						<url>http://trace.tennessee.edu/utk_gradthes/988/</url>
 						<date>2011</date>
 						<creators>
 							<creator>
@@ -95,7 +95,7 @@
 					</citation>
 					<citation>
 						<title>Collaborative Tagging in Digital Libraries</title>
-						<uri>ijidt.com/index.php/ijidt/article/download/4.2.9/200</uri>
+						<url>ijidt.com/index.php/ijidt/article/download/4.2.9/200</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -111,7 +111,7 @@
 					</citation>
 					<citation>
 						<title>Evaluation of the Effectiveness of Tag as an Access Point in a Public Library OPAC</title>
-						<uri>http://www.cais-acsi.ca/ojs/index.php/cais/article/view/616</uri>
+						<url>http://www.cais-acsi.ca/ojs/index.php/cais/article/view/616</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -127,7 +127,7 @@
 					</citation>
 					<citation>
 						<title>Tagging for Libraries: A Review of the Ef-fectiveness of Tagging Systems for Library Catalogs</title>
-						<uri>http://195.251.240.254:8080/handle/10184/4103</uri>
+						<url>http://195.251.240.254:8080/handle/10184/4103</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -141,7 +141,7 @@
 			</publication>
 			<publication>
 				<title>Good tags or bad tags? Tagging im Kontext der bibliothekarischen Sacherschließung</title>
-				<uri>https://ub-madoc.bib.uni-mannheim.de/2103</uri>
+				<url>https://ub-madoc.bib.uni-mannheim.de/2103</url>
 				<date>2008</date>
 				<creators>
 					<creator>
@@ -152,7 +152,7 @@
 				<citations>
 					<citation>
 						<title>The retrieval effectiveness of web search engines: considering results descriptions</title>
-						<uri>http://www.emeraldinsight.com/doi/full/10.1108/00220410810912451</uri>
+						<url>http://www.emeraldinsight.com/doi/full/10.1108/00220410810912451</url>
 						<date>2008</date>
 						<creators>
 							<creator>
@@ -164,7 +164,7 @@
 					</citation>
 					<citation>
 						<title>Educação e bibliotecas digitais Education and digital libraries</title>
-						<uri>http://polaris.bc.unicamp.br/seer/ojs/index.php/rbci/article/view/433</uri>
+						<url>http://polaris.bc.unicamp.br/seer/ojs/index.php/rbci/article/view/433</url>
 						<date>2010</date>
 						<creators>
 							<creator>
@@ -176,7 +176,7 @@
 					</citation>
 					<citation>
 						<title>Folksonomies: Nutzergerechte Schlagwörter als Indexierungswerkzeug für die Massen</title>
-						<uri>http://eprints.rclis.org/16583/</uri>
+						<url>http://eprints.rclis.org/16583/</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -188,7 +188,7 @@
 					</citation>
 					<citation>
 						<title>Kataloganreicherung/user-created quote-oder: Wieso funktioniert mein OPAC nicht wie Amazon?</title>
-						<uri>http://eprints.rclis.org/16583/</uri>
+						<url>http://eprints.rclis.org/16583/</url>
 						<date>2009</date>
 						<creators>
 							<creator>
@@ -200,7 +200,7 @@
 					</citation>
 					<citation>
 						<title>Social Tagging: Inhaltliche Erschließung durch freie Verschlagwortung und die „Klugheit der Masse“</title>
-						<uri>http://journals.ub.uni-heidelberg.de/index.php/akmb-news/article/viewFile/6147/1649</uri>
+						<url>http://journals.ub.uni-heidelberg.de/index.php/akmb-news/article/viewFile/6147/1649</url>
 						<date>2009</date>
 						<creators>
 							<creator>
@@ -212,7 +212,7 @@
 					</citation>
 					<citation>
 						<title>Computerunterstützte Tagging-Verfahren für Dokumente im Web</title>
-						<uri>theses.fh-hagenberg.at/system/files/pdf/Kroiss10.pdf</uri>
+						<url>theses.fh-hagenberg.at/system/files/pdf/Kroiss10.pdf</url>
 						<date>2010</date>
 						<creators>
 							<creator>
@@ -229,7 +229,7 @@
 	<eprint num="2">
 		<doi>10.7801/116</doi>
 		<title>Data from the paper: Valence and Arosual: A comparison of two sets of Emotional Facial Expressions</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/116</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/116</url>
 		<date>2010</date>
 		<creators>
 			<creator>
@@ -244,7 +244,7 @@
 		<publications>
 			<publication>
 				<title>Valence and Arousal: A Comparison of Two Sets of Emotional Facial Expressions</title>
-				<uri> https://ub-madoc.bib.uni-mannheim.de/30291</uri>
+				<url> https://ub-madoc.bib.uni-mannheim.de/30291</url>
 				<date>2010</date>
 				<creators>
 					<creator>
@@ -259,7 +259,7 @@
 				<citations>
 					<citation>
 						<title>Happy mouth and sad eyes: scanning emotional facial expressions.</title>
-						<uri>http://psycnet.apa.org/journals/emo/11/4/860/</uri>
+						<url>http://psycnet.apa.org/journals/emo/11/4/860/</url>
 						<date>2011</date>
 						<creators>
 							<creator>
@@ -275,7 +275,7 @@
 					</citation>
 					<citation>
 						<title>Affective engagement for facial expressions and emotional scenes: the influence of social anxiety</title>
-						<uri>http://www.sciencedirect.com/science/article/pii/S0301051112001093</uri>
+						<url>http://www.sciencedirect.com/science/article/pii/S0301051112001093</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -299,7 +299,7 @@
 					</citation>
 					<citation>
 						<title>Visual face perception of adults with unilateral cleft lip and palate in comparison to controls-an eye-tracking study</title>
-						<uri>http://www.cpcjournal.org/doi/abs/10.1597/08-244</uri>
+						<url>http://www.cpcjournal.org/doi/abs/10.1597/08-244</url>
 						<date>2011</date>
 						<creators>
 							<creator>
@@ -323,7 +323,7 @@
 					</citation>
 					<citation>
 						<title>Electrocortical responses to NIMSTIM facial expressions of emotion</title>
-						<uri>http://www.sciencedirect.com/science/article/pii/S0167876012006782</uri>
+						<url>http://www.sciencedirect.com/science/article/pii/S0167876012006782</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -343,7 +343,7 @@
 					</citation>
 					<citation>
 						<title>Context counts! social anxiety modulates the processing of fearful faces in the context of chemosensory anxiety signals</title>
-						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3685720/</uri>
+						<url>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3685720/</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -363,7 +363,7 @@
 					</citation>
 					<citation>
 						<title>Psychopathic traits predict startle habituation but not modulation in an emotional faces task</title>
-						<uri>http://www.sciencedirect.com/science/article/pii/S0191886910006227</uri>
+						<url>http://www.sciencedirect.com/science/article/pii/S0191886910006227</url>
 						<date>2010</date>
 						<creators>
 							<creator>
@@ -387,7 +387,7 @@
 					</citation>
 					<citation>
 						<title>Recognition of facially expressed emotions in patients with fibromyalgia syndrome</title>
-						<uri>http://www.tandfonline.com/doi/abs/10.1080/08964289.2013.818932</uri>
+						<url>http://www.tandfonline.com/doi/abs/10.1080/08964289.2013.818932</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -407,7 +407,7 @@
 					</citation>
 					<citation>
 						<title>Perceptual and affective mechanisms in facial expression recognition: An integrative review</title>
-						<uri>http://www.tandfonline.com/doi/abs/10.1080/02699931.2015.1049124</uri>
+						<url>http://www.tandfonline.com/doi/abs/10.1080/02699931.2015.1049124</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -423,7 +423,7 @@
 					</citation>
 					<citation>
 						<title>Emotion and Mood: Over 120 Years of Contemplation and Exploration in The American Journal of Psychology</title>
-						<uri>http://www.jstor.org/stable/10.5406/amerjpsyc.125.4.0409#pdf_only_tab_quotes</uri>
+						<url>http://www.jstor.org/stable/10.5406/amerjpsyc.125.4.0409#pdf_only_tab_quotes</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -435,7 +435,7 @@
 					</citation>
 					<citation>
 						<title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</title>
-						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/</uri>
+						<url>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -459,7 +459,7 @@
 					</citation>
 					<citation>
 						<title>Emotional Reactions to Point-Light Display Animations</title>
-						<uri>http://iwc.oxfordjournals.org/quote/early/2015/08/02/iwc.iwv028.short</uri>
+						<url>http://iwc.oxfordjournals.org/quote/early/2015/08/02/iwc.iwv028.short</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -499,7 +499,7 @@
 					</citation>
 					<citation>
 						<title>Inhibition and rumination in remitted major depressive disorder</title>
-						<uri>https://www.duo.uio.no/handle/10852/35161</uri>
+						<url>https://www.duo.uio.no/handle/10852/35161</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -511,7 +511,7 @@
 					</citation>
 					<citation>
 						<title>Facial Affect Recognition and Social Functioning in Individuals at Risk for Schizophrenia Spectrum Disorders</title>
-						<uri><![CDATA[http://academicworks.cuny.edu/cgi/viewquote.cgi?article=1387&context=gc_etds]]></uri>
+						<url>http://academicworks.cuny.edu/cgi/viewquote.cgi?article=1387&amp;context=gc_etds</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -523,7 +523,7 @@
 					</citation>
 					<citation>
 						<title>Processus émotionnels et cognitifs dans le développement des capacités de prise de décision sous ambiguïté</title>
-						<uri>http://www.theses.fr/2013PA05H121</uri>
+						<url>http://www.theses.fr/2013PA05H121</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -540,7 +540,7 @@
 	<eprint num="3">
 		<doi>10.7801/89</doi>
 		<title>Exploratory Interview Study with Financial Agents</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/116</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/116</url>
 		<date>2011</date>
 		<creators>
 			<creator>
@@ -552,7 +552,7 @@
 	<eprint num="4">
 		<doi>10.7801/2</doi>
 		<title>E-Book-Umfrage an der UB Mannheim 2010 - Fragebogen und Ergebnisdatensatz</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/2</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/2</url>
 		<date>2011</date>
 		<creators>
 			<creator>
@@ -567,7 +567,7 @@
 		<publications>
 			<publication>
 				<title>Die E-Book-Umfrage an der UB Mannheim – Zusammenfassung der Ergebnisse</title>
-				<uri>https://ub-madoc.bib.uni-mannheim.de/33134</uri>
+				<url>https://ub-madoc.bib.uni-mannheim.de/33134</url>
 				<date>2011</date>
 				<creators>
 					<creator>
@@ -586,7 +586,7 @@
 		<doi>10.7801/74</doi>
 		<title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors - Interview Transcripts
 		</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/74</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/74</url>
 		<date>2011</date>
 		<creators>
 			<creator>
@@ -601,7 +601,7 @@
 		<publications>
 			<publication>
 				<title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors</title>
-				<uri>https://ub-madoc.bib.uni-mannheim.de/29687</uri>
+				<url>https://ub-madoc.bib.uni-mannheim.de/29687</url>
 				<date>2011</date>
 				<creators>
 					<creator>
@@ -620,7 +620,7 @@
 				<citations>
 					<citation>
 						<title>How to make agile UX work more efficient: management and sales perspectives</title>
-						<uri>http://dl.acm.org/citation.cfm?id=2399037</uri>
+						<url>http://dl.acm.org/citation.cfm?id=2399037</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -637,7 +637,7 @@
 					</citation>
 					<citation>
 						<title>Enterprise Systems–A Research Agenda</title>
-						<uri>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</uri>
+						<url>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -654,7 +654,7 @@
 					</citation>
 					<citation>
 						<title>Developing Business Process Management Capabilities of Undergraduate IT Students</title>
-						<uri><![CDATA[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&rep=rep1&type=pdf]]></uri>
+						<url>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&amp;rep=rep1&amp;type=pdf</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -667,7 +667,7 @@
 					</citation>
 					<citation>
 						<title>Business process orientation: an empirical study of its impact on employees' innovativeness</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -688,7 +688,7 @@
 					</citation>
 					<citation>
 						<title>Understanding the role of organizational integration in developing and operating Software-as-a-Service</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -709,7 +709,7 @@
 					</citation>
 					<citation>
 						<title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</title>
-						<uri>http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf</uri>
+						<url>http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -726,7 +726,7 @@
 					</citation>
 					<citation>
 						<title>Exploring The Role Of Integration In Software-As-A-Service Failure</title>
-						<uri>http://www.pacis-net.org/file/2012/PACIS2012-155.pdf</uri>
+						<url>http://www.pacis-net.org/file/2012/PACIS2012-155.pdf</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -739,7 +739,7 @@
 					</citation>
 					<citation>
 						<title>User Experience as a basis for Management Decision Making Processes</title>
-						<uri>http://dspace.cc.tut.fi/dpub/handle/123456789/21376</uri>
+						<url>http://dspace.cc.tut.fi/dpub/handle/123456789/21376</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -757,7 +757,7 @@
 	<eprint num="6">
 		<doi>10.7801/75</doi>
 		<title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors - Survey Data</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/75</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/75</url>
 		<date>2011</date>
 		<creators>
 			<creator>
@@ -768,7 +768,7 @@
 		<publications>
 			<publication>
 				<title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors</title>
-				<uri>https://ub-madoc.bib.uni-mannheim.de/29687</uri>
+				<url>https://ub-madoc.bib.uni-mannheim.de/29687</url>
 				<date>2011</date>
 				<creators>
 					<creator>
@@ -787,7 +787,7 @@
 				<citations>
 					<citation>
 						<title>How to make agile UX work more efficient: management and sales perspectives</title>
-						<uri>http://dl.acm.org/citation.cfm?id=2399037</uri>
+						<url>http://dl.acm.org/citation.cfm?id=2399037</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -804,7 +804,7 @@
 					</citation>
 					<citation>
 						<title>Enterprise Systems–A Research Agenda</title>
-						<uri>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</uri>
+						<url>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -821,7 +821,7 @@
 					</citation>
 					<citation>
 						<title>Developing Business Process Management Capabilities of Undergraduate IT Students</title>
-						<uri><![CDATA[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&rep=rep1&type=pdf]]></uri>
+						<url>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&amp;rep=rep1&amp;type=pdf</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -834,7 +834,7 @@
 					</citation>
 					<citation>
 						<title>Business process orientation: an empirical study of its impact on employees' innovativeness</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -855,7 +855,7 @@
 					</citation>
 					<citation>
 						<title>Understanding the role of organizational integration in developing and operating Software-as-a-Service</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -876,7 +876,7 @@
 					</citation>
 					<citation>
 						<title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</title>
-						<uri>http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf</uri>
+						<url>http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -893,7 +893,7 @@
 					</citation>
 					<citation>
 						<title>Exploring The Role Of Integration In Software-As-A-Service Failure</title>
-						<uri>http://www.pacis-net.org/file/2012/PACIS2012-155.pdf</uri>
+						<url>http://www.pacis-net.org/file/2012/PACIS2012-155.pdf</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -906,7 +906,7 @@
 					</citation>
 					<citation>
 						<title>User Experience as a basis for Management Decision Making Processes</title>
-						<uri>http://dspace.cc.tut.fi/dpub/handle/123456789/21376</uri>
+						<url>http://dspace.cc.tut.fi/dpub/handle/123456789/21376</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -924,7 +924,7 @@
 	<eprint num="7">
 		<doi>10.7801/65</doi>
 		<title>Integrating Open and Closed Information Extraction: Challenges and First Steps</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/65</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/65</url>
 		<date>2013</date>
 		<creators>
 			<creator>
@@ -947,8 +947,8 @@
 		<publications>
 			<publication>
 				<title>Integrating Open and Closed Information Extraction: Challenges and First Steps</title>
-				<uri>http://publications.wim.uni-mannheim.de/informatik/lski/Dutta13IntegratingIE.pdf</uri>
-				<uri>http://ub-madoc.bib.uni-mannheim.de/34765/</uri>
+				<url>http://publications.wim.uni-mannheim.de/informatik/lski/Dutta13IntegratingIE.pdf</url>
+				<url>http://ub-madoc.bib.uni-mannheim.de/34765/</url>
 				<date>2013</date>
 				<creators>
 					<creator>
@@ -972,7 +972,7 @@
 				<citations>
 					<citation>
 						<title>A probabilistic approach for integrating heterogeneous knowledge sources</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-319-07443-6_20#page-1</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-319-07443-6_20#page-1</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -998,7 +998,7 @@
 					</citation>
 					<citation>
 						<title>NLP and DBpedia: An Upward Knowledge Acquisition Spiral</title>
-						<uri><![CDATA[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.846&rep=rep1&type=pdf]]></uri>
+						<url>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.846&amp;rep=rep1&amp;type=pdf</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -1029,7 +1029,7 @@
 					</citation>
 					<citation>
 						<title>Semantifying triples from open information extraction systems</title>
-						<uri><![CDATA[https://books.google.de/books?hl=de&lr=&id=e93YBAAAQBAJ&oi=fnd&pg=PA111&ots=PnV5FcdkuD&sig=dSvmblWprVAr7Bii7Wfyrh0qRYM#v=onepage&q&f=false]]></uri>
+						<url>https://books.google.de/books?hl=de&amp;lr=&amp;id=e93YBAAAQBAJ&amp;oi=fnd&amp;pg=PA111&amp;ots=PnV5FcdkuD&amp;sig=dSvmblWprVAr7Bii7Wfyrh0qRYM#v=onepage&amp;q&amp;f=false</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1049,7 +1049,7 @@
 					</citation>
 					<citation>
 						<title>Integrating Natural Language Processing (NLP) and Language Resources Using Linked Data</title>
-						<uri>http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend[id]=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932</uri>
+						<url>http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend[id]=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -1062,7 +1062,7 @@
 					</citation>
 					<citation>
 						<title>Entity Linking for Open Information Extraction</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-319-07983-7_11#page-1</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-319-07983-7_11#page-1</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -1081,7 +1081,7 @@
 					</citation>
 					<citation>
 						<title>Tractable Probabilistic Knowledge Bases: Wikipedia and Beyond</title>
-						<uri>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8722</uri>
+						<url>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8722</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1100,7 +1100,7 @@
 					</citation>
 					<citation>
 						<title>Integration of large scale knowledge bases using probabilistic graphical models</title>
-						<uri>http://dl.acm.org/citation.cfm?id=2556202</uri>
+						<url>http://dl.acm.org/citation.cfm?id=2556202</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1114,7 +1114,7 @@
 					</citation>
 					<citation>
 						<title>Enriching Structured Knowledge with Open Information</title>
-						<uri>http://dl.acm.org/citation.cfm?id=2741139</uri>
+						<url>http://dl.acm.org/citation.cfm?id=2741139</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1135,7 +1135,7 @@
 					</citation>
 					<citation>
 						<title>Out of Many, One: Unifying Web-Extracted Knowledge Bases</title>
-						<uri>http://www.akbc.ws/2014/submissions/akbc2014_submission_28.pdf</uri>
+						<url>http://www.akbc.ws/2014/submissions/akbc2014_submission_28.pdf</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1154,7 +1154,7 @@
 			</publication>
 			<publication>
 				<title>Integration of Large Scale Knowledge Bases using Probabilistic Graphical Models</title>
-				<uri> 	https://ub-madoc.bib.uni-mannheim.de/35518</uri>
+				<url> 	https://ub-madoc.bib.uni-mannheim.de/35518</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1165,7 +1165,7 @@
 			</publication>
 			<publication>
 				<title>A Probabilistic Approach for Integrating Heterogeneous Knowledge Sources</title>
-				<uri>https://ub-madoc.bib.uni-mannheim.de/36461</uri>
+				<url>https://ub-madoc.bib.uni-mannheim.de/36461</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1184,7 +1184,7 @@
 				<citations>
 					<citation>
 						<title>Improving the quality of linked data using statistical distributions</title>
-						<uri>http://www.igi-global.com/article/improving-the-quality-of-linked-data-using-statistical-distributions/116452</uri>
+						<url>http://www.igi-global.com/article/improving-the-quality-of-linked-data-using-statistical-distributions/116452</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1200,7 +1200,7 @@
 					</citation>
 					<citation>
 						<title>Identifying wrong links between datasets by multi-dimensional outlier detection</title>
-						<uri>http://ceur-ws.org/Vol-1162/WoDOOM14-proceedings.pdf#page=33</uri>
+						<url>http://ceur-ws.org/Vol-1162/WoDOOM14-proceedings.pdf#page=33</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1213,7 +1213,7 @@
 					</citation>
 					<citation>
 						<title>Semantifying triples from open information extraction systems</title>
-						<uri><![CDATA[https://books.google.de/books?hl=de&lr=&id=e93YBAAAQBAJ&oi=fnd&pg=PA111&ots=PnV5FdcoyF&sig=6V93jKGmnVtAIMz_-ppAdGARS70#v=onepage&q&f=false]]></uri>
+						<url>https://books.google.de/books?hl=de&amp;lr=&amp;id=e93YBAAAQBAJ&amp;oi=fnd&amp;pg=PA111&amp;ots=PnV5FdcoyF&amp;sig=6V93jKGmnVtAIMz_-ppAdGARS70#v=onepage&amp;q&amp;f=false</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1229,7 +1229,7 @@
 					</citation>
 					<citation>
 						<title>Knowledge Base Unification via Sense Embeddings and Disambiguation</title>
-						<uri>http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf</uri>
+						<url>http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1252,7 +1252,7 @@
 					</citation>
 					<citation>
 						<title>Truth Discovery to Resolve Object Conflicts in Linked Data</title>
-						<uri>http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf</uri>
+						<url>http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1281,7 +1281,7 @@
 					</citation>
 					<citation>
 						<title>Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis</title>
-						<uri>https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/660</uri>
+						<url>https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/660</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1302,7 +1302,7 @@
 					</citation>
 					<citation>
 						<title>Automatic Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods</title>
-						<uri>http://www.semantic-web-journal.net/system/files/swj1083.pdf</uri>
+						<url>http://www.semantic-web-journal.net/system/files/swj1083.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1315,7 +1315,7 @@
 					</citation>
 					<citation>
 						<title>Enriching Structured Knowledge with Open Information</title>
-						<uri>http://dl.acm.org/citation.cfm?id=2741139</uri>
+						<url>http://dl.acm.org/citation.cfm?id=2741139</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1340,7 +1340,7 @@
 			</publication>
 			<publication>
 				<title>Entity Linking for Open Information Extraction</title>
-				<uri>https://ub-madoc.bib.uni-mannheim.de/36671</uri>
+				<url>https://ub-madoc.bib.uni-mannheim.de/36671</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1355,7 +1355,7 @@
 				<citations>
 					<citation>
 						<title>Automatic creation of knowledge graphs from digital musical document libraries</title>
-						<uri>www.mtg.upf.es/system/files/publications/CIM14_MAIN.pdf</uri>
+						<url>www.mtg.upf.es/system/files/publications/CIM14_MAIN.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1383,7 +1383,7 @@
 	<eprint num="8">
 		<doi>10.7801/2</doi>
 		<title>Business Data Manager Experimental Evaluation</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/86</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/86</url>
 		<date>2013</date>
 		<creators>
 			<creator>
@@ -1395,7 +1395,7 @@
 	<eprint num="9">
 		<doi>10.7801/28</doi>
 		<title>E-Book-Umfrage an der UB Mannheim 2010 - Fragebogen und Ergebnisdatensatz</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/28</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/28</url>
 		<date>2013</date>
 		<creators>
 			<creator>
@@ -1406,7 +1406,7 @@
 		<publications>
 			<publication>
 				<title>Die E-Book-Umfrage an der UB Mannheim – Zusammenfassung der Ergebnisse</title>
-				<uri>https://ub-madoc.bib.uni-mannheim.de/33134</uri>
+				<url>https://ub-madoc.bib.uni-mannheim.de/33134</url>
 				<date>2012</date>
 				<creators>
 					<creator>
@@ -1436,7 +1436,7 @@
 	<eprint num="10">
 		<doi>10.7801/23</doi>
 		<title>Evaluation measures for ontology matchers in supervised matching scenarios</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/23</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/23</url>
 		<date>2013</date>
 		<creators>
 			<creator>
@@ -1455,7 +1455,7 @@
 		<publications>
 			<publication>
 				<title>Evaluation measures for ontology matchers in supervised matching scenarios</title>
-				<uri>http://dx.doi.org/10.1007/978-3-642-41338-4_25</uri>
+				<url>http://dx.doi.org/10.1007/978-3-642-41338-4_25</url>
 				<date>2012</date>
 				<creators>
 					<creator>
@@ -1477,7 +1477,7 @@
 	<eprint num="11">
 		<doi>10.7801/72</doi>
 		<title>Field Experiment Data</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/72</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/72</url>
 		<date>2013</date>
 		<creators>
 			<creator>
@@ -1488,7 +1488,7 @@
 		<publications>
 			<publication>
 				<title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</title>
-				<uri>http://ub-madoc.bib.uni-mannheim.de/36139/</uri>
+				<url>http://ub-madoc.bib.uni-mannheim.de/36139/</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1502,7 +1502,7 @@
 	<eprint num="12">
 		<doi>10.7801/73</doi>
 		<title>Lab Experiment Data</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/73/</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/73/</url>
 		<date>2013</date>
 		<creators>
 			<creator>
@@ -1513,7 +1513,7 @@
 		<publications>
 			<publication>
 				<title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</title>
-				<uri>http://ub-madoc.bib.uni-mannheim.de/36139/</uri>
+				<url>http://ub-madoc.bib.uni-mannheim.de/36139/</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1527,7 +1527,7 @@
 	<eprint num="13">
 		<doi>10.7801/71</doi>
 		<title>Survey-Based Experiment Data</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/73/</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/73/</url>
 		<date>2013</date>
 		<creators>
 			<creator>
@@ -1538,7 +1538,7 @@
 		<publications>
 			<publication>
 				<title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</title>
-				<uri>http://ub-madoc.bib.uni-mannheim.de/36139/</uri>
+				<url>http://ub-madoc.bib.uni-mannheim.de/36139/</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1552,7 +1552,7 @@
 	<eprint num="14">
 		<doi>10.7801/111</doi>
 		<title>Data from the paper: Acquisition of behavioral avoidance: Task-irrelevant conditioned stimuli trigger costly decisions</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/111</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/111</url>
 		<date>2013</date>
 		<creators>
 			<creator>
@@ -1575,7 +1575,7 @@
 		<publications>
 			<publication>
 				<title>Acquisition of behavioral avoidance: task-irrelevant conditioned stimuli trigger costly decisions</title>
-				<uri>http://dx.doi.org/10.1037/a0036136</uri>
+				<url>http://dx.doi.org/10.1037/a0036136</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1598,7 +1598,7 @@
 				<citations>
 					<citation>
 						<title>Social and emotional relevance in face processing: happy faces of future interaction partners enhance the late positive potential</title>
-						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4100576/</uri>
+						<url>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4100576/</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1628,7 +1628,7 @@
 					</citation>
 					<citation>
 						<title>The cost of fear: avoidant decision making in a spider gambling task</title>
-						<uri>http://www.sciencedirect.com/science/article/pii/S0887618514000292</uri>
+						<url>http://www.sciencedirect.com/science/article/pii/S0887618514000292</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1655,7 +1655,7 @@
 					</citation>
 					<citation>
 						<title>The impact of sex hormone concentrations on decision-making in females and males</title>
-						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220662/</uri>
+						<url>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220662/</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1682,7 +1682,7 @@
 					</citation>
 					<citation>
 						<title>Fear and Loathing in the Judicial Process: Comparative Case Studies of Judicial Responses to Terrorism</title>
-						<uri>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2546159</uri>
+						<url>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2546159</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1695,7 +1695,7 @@
 					</citation>
 					<citation>
 						<title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</title>
-						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/</uri>
+						<url>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -1724,7 +1724,7 @@
 					</citation>
 					<citation>
 						<title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</title>
-						<uri>http://www.sciencedirect.com/science/article/pii/S0005796715300267</uri>
+						<url>http://www.sciencedirect.com/science/article/pii/S0005796715300267</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1757,7 +1757,7 @@
 	<eprint num="15">
 		<doi>10.7801/112</doi>
 		<title>Data from the paper: Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/112</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/112</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -1780,7 +1780,7 @@
 		<publications>
 			<publication>
 				<title>Avoidant decision making in social anxiety: The interaction of angry faces and emotional responses</title>
-				<uri>http://dx.doi.org/10.3389/fpsyg.2014.01050</uri>
+				<url>http://dx.doi.org/10.3389/fpsyg.2014.01050</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1803,7 +1803,7 @@
 				<citations>
 					<citation>
 						<title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</title>
-						<uri>http://www.sciencedirect.com/science/article/pii/S0005796715300267</uri>
+						<url>http://www.sciencedirect.com/science/article/pii/S0005796715300267</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1836,7 +1836,7 @@
 	<eprint num="16">
 		<doi>10.7801/95</doi>
 		<title>Ex Post Evaluation of Project KMS</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/95</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/95</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -1848,7 +1848,7 @@
 	<eprint num="17">
 		<doi>10.7801/93</doi>
 		<title>Exploratory Interview Study for Project Knowledge Reuse</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/93</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/93</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -1860,7 +1860,7 @@
 	<eprint num="18">
 		<doi>10.7801/94</doi>
 		<title>Pre-Evaluation Results of Project KMS Artifact</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/94</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/94</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -1872,7 +1872,7 @@
 	<eprint num="19">
 		<doi>10.7801/90</doi>
 		<title>Multichannel commerce: A consumer perspective on the integration of physical and electronic channels </title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/90</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/90</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -1884,7 +1884,7 @@
 	<eprint num="20">
 		<doi>10.7801/87</doi>
 		<title>Data from the paper: Weakly supervised construction of a repository of iconic images</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/87</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/87</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -1903,7 +1903,7 @@
 		<publications>
 			<publication>
 				<title>Weakly supervised construction of a repository of iconic images</title>
-				<uri>http://www.aclweb.org/anthology/W14-5410</uri>
+				<url>http://www.aclweb.org/anthology/W14-5410</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -1925,7 +1925,7 @@
 	<eprint num="21">
 		<doi>10.7801/80</doi>
 		<title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/80</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/80</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -1936,7 +1936,7 @@
 		<publications>
 			<publication>
 				<title>Exploring principles of user-centered agile software development: A literature review</title>
-				<uri>http://dx.doi.org/10.1016/j.infsof.2015.01.004</uri>
+				<url>http://dx.doi.org/10.1016/j.infsof.2015.01.004</url>
 				<date>2015</date>
 				<creators>
 					<creator>
@@ -1959,7 +1959,7 @@
 				<citations>
 					<citation>
 						<title>Overcoming Challenges in Agile User Experience Work: Cross-Case Analysis of Two Large Software Organizations</title>
-						<uri>ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7302488</uri>
+						<url>ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7302488</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1973,7 +1973,7 @@
 					</citation>
 					<citation>
 						<title>Task Allocation Between UX Specialists and Developers in Agile Software Development Projects</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-319-22698-9_3</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-319-22698-9_3</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1986,7 +1986,7 @@
 					</citation>
 					<citation>
 						<title>Continuous User Experience Development</title>
-						<uri><![CDATA[https://books.google.de/books?hl=de&lr=&id=lEquCgAAQBAJ&oi=fnd&pg=PA233&ots=8UJy5d6tdR&sig=gdvKgVW7-OB_fBialpAfcXmdpxE#v=onepage&q&f=false]]></uri>
+						<url>https://books.google.de/books?hl=de&amp;lr=&amp;id=lEquCgAAQBAJ&amp;oi=fnd&amp;pg=PA233&amp;ots=8UJy5d6tdR&amp;sig=gdvKgVW7-OB_fBialpAfcXmdpxE#v=onepage&amp;q&amp;f=false</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -1999,7 +1999,7 @@
 					</citation>
 					<citation>
 						<title>OpenUP/MMU-ISO Process Updated According to the Activities and Recommendations of the ISO 9241-210 Standard</title>
-						<uri>http://www.researchandinnovationbook.com/PROCEEDINGS/CITA2015/Archives/papers/paper28.pdf</uri>
+						<url>http://www.researchandinnovationbook.com/PROCEEDINGS/CITA2015/Archives/papers/paper28.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -2025,7 +2025,7 @@
 	<eprint num="22">
 		<doi>10.7801/67</doi>
 		<title>Detecting Meaningful Compounds in Complex Class Labels (Experimental Results)</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/67</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/67</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -2038,7 +2038,7 @@
 	<eprint num="23">
 		<doi>10.7801/60</doi>
 		<title>Effects of Cultural Intelligence in Cross-Cultural Virtual Collaboration - Experimental data</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/60</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/60</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -2049,7 +2049,7 @@
 		<publications>
 			<publication>
 				<title>Uncovering the Effects of Cultural Intelligence on Cross-Cultural Virtual Collaboration Processes</title>
-				<uri>http://dx.doi.org/10.1007/978-3-642-39137-8_27</uri>
+				<url>http://dx.doi.org/10.1007/978-3-642-39137-8_27</url>
 				<date>2013</date>
 				<creators>
 					<creator>
@@ -2064,7 +2064,7 @@
 			</publication>
 			<publication>
 				<title>"Are You a Trustworthy Partner in a Cross-cultural Virtual Environment?" – Behavioral Cultural Intelligence and Receptivity-based Trust in Virtual Collaboration</title>
-				<uri>http://dl.acm.org/citation.cfm?id=2160895</uri>
+				<url>http://dl.acm.org/citation.cfm?id=2160895</url>
 				<date>2012</date>
 				<creators>
 					<creator>
@@ -2087,7 +2087,7 @@
 				<citations>
 					<citation>
 						<title>Extending Role of “I” Virtually–Identity Performance and Their Influence on Individual Behaviour and Team Performance in Globally Distributed Work Virtual Teams</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-642-39137-8_21</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-642-39137-8_21</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -2108,7 +2108,7 @@
 					</citation>
 					<citation>
 						<title>Designing tools to support advanced users in new forms of social media interaction</title>
-						<uri>http://dl.acm.org/citation.cfm?id=2775462</uri>
+						<url>http://dl.acm.org/citation.cfm?id=2775462</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -2133,7 +2133,7 @@
 					</citation>
 					<citation>
 						<title>Uncovering the Effects of Cultural Intelligence on Cross-Cultural Virtual Collaboration Processes</title>
-						<uri>link.springer.com/chapter/10.1007/978-3-642-39137-8_27</uri>
+						<url>link.springer.com/chapter/10.1007/978-3-642-39137-8_27</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -2155,7 +2155,7 @@
 	<eprint num="24">
 		<doi>10.7801/62</doi>
 		<title>Effects of process ambidexterity on coordination and outcomes in software project teams - surevy data</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/62</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/62</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -2167,7 +2167,7 @@
 	<eprint num="25">
 		<doi>10.7801/61</doi>
 		<title>Formulating Effective Coordination Strategies in Agile Global Software Development Teams - Interview transcripts</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/61</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/61</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -2178,7 +2178,7 @@
 		<publications>
 			<publication>
 				<title>Formulating Effective Coordination Strategies in Agile Global Software Development Teams</title>
-				<uri>http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/36/</uri>
+				<url>http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/36/</url>
 				<date>2012</date>
 				<creators>
 					<creator>
@@ -2193,7 +2193,7 @@
 				<citations>
 					<citation>	
 						<title>Coordination in Large-Scale Agile Software Development: A Multiteam Systems Perspective</title>
-						<uri><![CDATA[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6759189&tag=1]]></uri>
+						<url>http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6759189&amp;tag=1</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -2214,7 +2214,7 @@
 					</citation>
 					<citation>	
 						<title>State-of-the-Art: A Systematic Literature Review on Agile Information Systems Development</title>
-						<uri><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6759181]]></uri>
+						<url>http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6759181</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -2227,7 +2227,7 @@
 					</citation>
 					<citation>	
 						<title>Exploring Coordination in Large-Scale Agile Software Development: A Multiteam Systems Perspective</title>
-						<uri>http://aisel.aisnet.org/icis2014/proceedings/ProjectManagement/17/</uri>
+						<url>http://aisel.aisnet.org/icis2014/proceedings/ProjectManagement/17/</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -2244,7 +2244,7 @@
 					</citation>
 					<citation>	
 						<title>MITIGATION APPROACHES FOR COMMON ISSUES AND CHALLENGES WHEN USING SCRUM IN GLOBAL SOFTWARE DEVELOPMENT</title>
-						<uri><![CDATA[http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A830730&dswid=4164]]></uri>
+						<url>http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A830730&amp;dswid=4164</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -2266,7 +2266,7 @@
 	<eprint num="26">
 		<doi>10.7801/57</doi>
 		<title>A Gold Standard of Meaningful Compounds in Complex Class Labels</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/57</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/57</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -2286,7 +2286,7 @@
 	<eprint num="27">
 		<doi>10.7801/113</doi>
 		<title>Data from the paper: The cost of fear: Avoidant decision making in a spider gambling task</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/113</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/113</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -2309,7 +2309,7 @@
 		<publications>
 			<publication>
 				<title>The cost of fear: Avoidant decision making in a spider gambling task</title>
-				<uri>http://dx.doi.org/10.1016/j.janxdis.2014.03.001</uri>
+				<url>http://dx.doi.org/10.1016/j.janxdis.2014.03.001</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -2332,7 +2332,7 @@
 				<citations>
 					<citation>	
 						<title>Emotional pictures and sounds: a review of multimodal interactions of emotion cues in multiple domains</title>
-						<uri>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4248815/</uri>
+						<url>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4248815/</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -2353,7 +2353,7 @@
 					</citation>
 					<citation>	
 						<title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</title>
-						<uri>ref09</uri>
+						<url>ref09</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -2382,7 +2382,7 @@
 					</citation>
 					<citation>	
 						<title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</title>
-						<uri>http://www.sciencedirect.com/science/article/pii/S0005796715300267</uri>
+						<url>http://www.sciencedirect.com/science/article/pii/S0005796715300267</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -2414,7 +2414,7 @@
 	<eprint num="28">
 		<doi>10.7801/76</doi>
 		<title>Form and function - designing successful mobile data services - Survey Data </title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/76</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/76</url>
 		<date>2014</date>
 		<creators>
 			<creator>
@@ -2426,7 +2426,7 @@
 	<eprint num="29">
 		<doi>10.7801/149</doi>
 		<title>Experiment Data Set - Design Cycle Two</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/149</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/149</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2438,7 +2438,7 @@
 	<eprint num="30">
 		<doi>10.7801/148</doi>
 		<title>Interviews and Workshops - Design Cycle One</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/148</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/148</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2449,7 +2449,7 @@
 		<publications>
 			<publication>
 				<title>Designing a Process Guidance System to Support User’s Business Process Compliance</title>
-				<uri> 	https://ub-madoc.bib.uni-mannheim.de/37039</uri>
+				<url> 	https://ub-madoc.bib.uni-mannheim.de/37039</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -2472,7 +2472,7 @@
 				<citations>
 					<citation>	
 						<title>ITSM ProcessGuide–A Process Guidance System for IT Service Management</title>
-						<uri>http://link.springer.com/chapter/10.1007/978-3-319-18714-3_32</uri>
+						<url>http://link.springer.com/chapter/10.1007/978-3-319-18714-3_32</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -2497,7 +2497,7 @@
 					</citation>
 					<citation>	
 						<title>ITSM ProcessGuide–a longitudinal and multi-method field study for real-world DSR artifact evaluation</title>
-						<uri>https://cora.ucc.ie/handle/10468/1814</uri>
+						<url>https://cora.ucc.ie/handle/10468/1814</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -2527,7 +2527,7 @@
 	<eprint num="31">
 		<doi>10.7801/151</doi>
 		<title>Interviews and Workshop - Design Cycle Three</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/151</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/151</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2539,7 +2539,7 @@
 	<eprint num="32">
 		<doi>10.7801/150</doi>
 		<title>Survey Data Set - Design Cycle Three</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/150</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/150</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2551,7 +2551,7 @@
 	<eprint num="33">
 		<doi>10.7801/152</doi>
 		<title>Ticketing Processes - Design Cycle Three</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/152</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/152</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2563,7 +2563,7 @@
 	<eprint num="34">
 		<doi>10.7801/145</doi>
 		<title>Supplements to the paper: Understanding Digitization across Processes and their Phases – An Extension of Process Virtualization Theory</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/145</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/145</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2576,7 +2576,7 @@
 	<eprint num="35">
 		<doi>10.7801/145</doi>
 		<title> the paper: Process Digitization in Retail Banking – An Empirical Examination of Process Virtualization Theory</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/145</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/145</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2589,7 +2589,7 @@
 	<eprint num="36">
 		<doi>10.7801/136</doi>
 		<title>Reverb Instance and Relation gold standard</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/136</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/136</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2601,7 +2601,7 @@
 	<eprint num="37">
 		<doi>10.7801/134</doi>
 		<title>Supplements to the paper: Customers' Intention to Use Digital Services in Retail Banking – An Information Processing Perspective</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/134</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/134</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2612,7 +2612,7 @@
 		<publications>
 			<publication>
 				<title>Supplements to the paper: Customers' Intention to Use Digital Services in Retail Banking – An Information Processing Perspective</title>
-				<uri>http://aisel.aisnet.org/ecis2015_cr/61/</uri>
+				<url>http://aisel.aisnet.org/ecis2015_cr/61/</url>
 				<date>2015</date>
 				<creators>
 					<creator>
@@ -2638,7 +2638,7 @@
 	<eprint num="38">
 		<doi>10.7801/127</doi>
 		<title>Systematic Literature Review “Enterprise Systems Chartering” –Review Procedure and Analysis Results</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/127</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/127</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2650,7 +2650,7 @@
 	<eprint num="39">
 		<doi>10.7801/121</doi>
 		<title>Understanding the Impact of Social and Ambidextrous Knowing-in-practice on the Effective Use of Enterprise Systems</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/121</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/121</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2662,7 +2662,7 @@
 	<eprint num="40">
 		<doi>10.7801/68</doi>
 		<title>Interview Data for the following study: Hadasch, F., Mueller, B., and Maedche, A. (2012). Exploring antecedent environmental and organizational factors to user-caused information leaks: A qualitative study. Proceedings of the 20th European Conference on Information Systems.</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/68</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/68</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2673,7 +2673,7 @@
 		<publications>
 			<publication>
 				<title>Exploring Antecedent Environmental and Organizational Factors to User-Caused Information Leaks: a Qualitative Study</title>
-				<uri><![CDATA[http://aisel.aisnet.org/cgi/viewquote.cgi?article=1126&context=ecis2012]]></uri>
+				<url>http://aisel.aisnet.org/cgi/viewquote.cgi?article=1126&amp;context=ecis2012</url>
 				<date>2015</date>
 				<creators>
 					<creator>
@@ -2692,7 +2692,7 @@
 				<citations>
 					<citation>
 						<title>Enterprise Systems - A Research Agenda</title>
-						<uri>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</uri>
+						<url>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145</url>
 						<date>2012</date>
 						<creators>
 							<creator>
@@ -2709,7 +2709,7 @@
 					</citation>
 					<citation>
 						<title>Information security awareness and behavior: a theory-based literature review</title>
-						<uri>http://dx.doi.org/10.1108/MRR-04-2013-0085</uri>
+						<url>http://dx.doi.org/10.1108/MRR-04-2013-0085</url>
 						<date>2014</date>
 						<creators>
 							<creator>
@@ -2738,7 +2738,7 @@
 					</citation>
 					<citation>
 						<title>Fuzzy Assessment of Health Information System Users' Security Awareness</title>
-						<uri>http://link.springer.com/article/10.1007/s10916-013-9984-x</uri>
+						<url>http://link.springer.com/article/10.1007/s10916-013-9984-x</url>
 						<date>2013</date>
 						<creators>
 							<creator>
@@ -2755,7 +2755,7 @@
 					</citation>
 					<citation>
 						<title>Financial Market Surveillance Decision Support: An Explanatory Design Theory</title>
-						<uri>https://domino.fov.uni-mb.si/proceedings.nsf/Proceedings/08209464067DDF2AC1257E5B0048279B/$File/1_Alic.pdf</uri>
+						<url>https://domino.fov.uni-mb.si/proceedings.nsf/Proceedings/08209464067DDF2AC1257E5B0048279B/$File/1_Alic.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -2770,7 +2770,7 @@
 			</publication>
 			<publication>
 				<title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</title>
-				<uri>http://ub-madoc.bib.uni-mannheim.de/36139/</uri>
+				<url>http://ub-madoc.bib.uni-mannheim.de/36139/</url>
 				<date>2014</date>
 				<creators>
 					<creator>
@@ -2784,7 +2784,7 @@
 	<eprint num="41">
 		<doi>10.7801/129</doi>
 		<title>Supplements to the paper: Visibility of Business Processes - An Information Processing Perspective in the Financial Services Industry</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/129</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/129</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2795,7 +2795,7 @@
 		<publications>
 			<publication>
 				<title>Visibility of Business Processes - An Information Processing Perspective in the Financial Services Industry</title>
-				<uri>http://aisel.aisnet.org/ecis2015_cr/60/</uri>
+				<url>http://aisel.aisnet.org/ecis2015_cr/60/</url>
 				<date>2015</date>
 				<creators>
 					<creator>
@@ -2814,7 +2814,7 @@
 				<citations>
 					<citation>
 						<title>Process Visibility Requirements and Capabilities-Conceptual Perspectives and Operationalization</title>
-						<uri>http://web.eris.uni-mannheim.de/website_supplements/theses/attachments%5C326%5CThesis%20proposal%20final.pdf</uri>
+						<url>http://web.eris.uni-mannheim.de/website_supplements/theses/attachments%5C326%5CThesis%20proposal%20final.pdf</url>
 						<date>2015</date>
 						<creators>
 							<creator>
@@ -2831,7 +2831,7 @@
 	<eprint num="42">
 		<doi>10.7801/118</doi>
 		<title>Interpretive case study on ES Transformation - Interview Data</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/118</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/118</url>
 		<date>2015</date>
 		<creators>
 			<creator>
@@ -2843,7 +2843,7 @@
 	<eprint num="43">
 		<doi>10.7801/142</doi>
 		<title>Affect and the weight of idealistic and pragmatic concerns in decision situations</title>
-		<uri>https://madata.bib.uni-mannheim.de/id/eprint/142</uri>
+		<url>https://madata.bib.uni-mannheim.de/id/eprint/142</url>
 		<date>2015</date>
 		<creators>
 			<creator>
