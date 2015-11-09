@@ -1,0 +1,11 @@
+<data xmlns="http://eprints.org/ep2/data/2.0">
+  <count licsec="public AND ">74</count>
+  <count licsec="public AND cc0">24</count>
+  <count licsec="staffonly AND no_license">21</count>
+  <count licsec="staffonly AND cc0">8</count>
+  <count licsec="staffonly AND cc_by_nc_nd">7</count>
+  <count licsec="staffonly AND ">6</count>
+  <count licsec="public AND cc_by_nc_sa">5</count>
+  <count licsec="validuser AND cc0">1</count>
+  <count licsec="public AND cc_by">1</count>
+</data>
