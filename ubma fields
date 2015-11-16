@@ -22,7 +22,7 @@ Short description of how to recieve the data, defines field "Availability" in Ma
 level: eprint
 Example: "Send a request to xy@uni-mannheim.de"
 note: maybe related to security (level: document)?
-note: Only 8 eprints tagged, whereas ubma_availibility (see above) is given in 44 eprints, which means in every dataset. Spelling mistake as above.
+note: Only 8 eprints tagged, whereas ubma_availibility (see above) is given in 44 eprints, which means in every dataset. Same spelling mistake as mentioned above.
 
 total count = 12
 archive count = 8
