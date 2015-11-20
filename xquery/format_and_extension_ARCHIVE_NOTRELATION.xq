@@ -3,7 +3,7 @@ import module namespace functx = 'http://www.functx.com';
 
 <data>{
 for $b in //eprint[eprint_status = "archive"]//document[not(relation)]
-let $a := string-join(($b/format, " AND ", functx:substring-after-last($b/files/file/filename, ".")))
+let $a := string-join(($b/format, " - ", functx:substring-after-last($b/files/file/filename, ".")))
 group by $a
 order by count($b) descending
 
