@@ -311,7 +311,7 @@
     <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-319-07443-6_20#page-1"/>
     <cito:citedBy rdf:resource="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.846&amp;rep=rep1&amp;type=pdf"/>
     <cito:citedBy rdf:resource="https://books.google.de/books?hl=de&amp;lr=&amp;id=e93YBAAAQBAJ&amp;oi=fnd&amp;pg=PA111&amp;ots=PnV5FcdkuD&amp;sig=dSvmblWprVAr7Bii7Wfyrh0qRYM#v=onepage&amp;q&amp;f=false"/>
-    <cito:citedBy rdf:resource="http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend[id]=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932"/>
+    <cito:citedBy rdf:resource="http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend%5Bid%5D=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932"/>
     <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-319-07983-7_11#page-1"/>
     <cito:citedBy rdf:resource="http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8722"/>
     <cito:citedBy rdf:resource="http://dl.acm.org/citation.cfm?id=2556202"/>
@@ -720,7 +720,7 @@
     <dc:creator>http://madata/rdf/StuckenschmidtH</dc:creator>
     <dc:title>Semantifying triples from open information extraction systems</dc:title>
   </rdf:Description>
-  <rdf:Description rdf:about="http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend[id]=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932">
+  <rdf:Description rdf:about="http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend%5Bid%5D=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932">
     <dc:creator>http://madata/rdf/HellmannS</dc:creator>
     <dc:title>Integrating Natural Language Processing (NLP) and Language Resources Using Linked Data</dc:title>
   </rdf:Description>
