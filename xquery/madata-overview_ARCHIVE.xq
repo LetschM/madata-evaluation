@@ -13,7 +13,7 @@ return
 let $a := //eprint[eprint_status = "archive"]//date
 let $b := //eprint[eprint_status = "archive"]//creators
 let $c := //eprint[eprint_status = "archive"]//documents
-let $d := //eprint[eprint_status = "archive"]//eprint/title
+let $d := //eprint[eprint_status = "archive"]/title
 let $e := //eprint[eprint_status = "archive"]//subjects
 let $f := //eprint[eprint_status = "archive"]//keywords
 let $g := //eprint[eprint_status = "archive"]//abstract
