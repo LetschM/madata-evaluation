@@ -1,0 +1,964 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cito="http://purl.org/spar/cito/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/1">
+    <dc:creator>http://madata/rdf/HängerC</dc:creator>
+    <dc:creator>http://madata/rdf/KrätzschC</dc:creator>
+    <dc:creator>http://madata/rdf/NiemannC</dc:creator>
+    <dc:title>Analyse der Tag-Struktur in Bibsonomy</dc:title>
+    <cito:citedBy rdf:resource="http://www.emeraldinsight.com/doi/full/10.1108/07378830911007664"/>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/2103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/116">
+    <dc:creator>http://madata/rdf/AdolphD</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Data from the paper: Valence and Arosual: A comparison of two sets of Emotional Facial Expressions</dc:title>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/30291"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/116">
+    <dc:creator>http://madata/rdf/GassO</dc:creator>
+    <dc:title>Exploratory Interview Study with Financial Agents</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/2">
+    <dc:creator>http://madata/rdf/KaiserJ</dc:creator>
+    <dc:creator>http://madata/rdf/KleinA</dc:creator>
+    <dc:title>E-Book-Umfrage an der UB Mannheim 2010 - Fragebogen und Ergebnisdatensatz</dc:title>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/33134"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/74">
+    <dc:creator>http://madata/rdf/MethH</dc:creator>
+    <dc:creator>http://madata/rdf/KahrauF</dc:creator>
+    <dc:title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors - Interview Transcripts
+		</dc:title>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/29687"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/75">
+    <dc:creator>http://madata/rdf/BotzenhardtA</dc:creator>
+    <dc:title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors - Survey Data</dc:title>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/29687"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/65">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:creator>http://madata/rdf/NiepertM</dc:creator>
+    <dc:creator>http://madata/rdf/PonzettoS</dc:creator>
+    <dc:title>Integrating Open and Closed Information Extraction: Challenges and First Steps</dc:title>
+    <cito:citedBy rdf:resource="http://publications.wim.uni-mannheim.de/informatik/lski/Dutta13IntegratingIE.pdf"/>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/35518"/>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/36461"/>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/36671"/>
+    <cito:citedBy rdf:resource=""/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/86">
+    <dc:creator>http://madata/rdf/GassO</dc:creator>
+    <dc:title>Business Data Manager Experimental Evaluation</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/28">
+    <dc:creator>http://madata/rdf/SchummI</dc:creator>
+    <dc:title>E-Book-Umfrage an der UB Mannheim 2010 - Fragebogen und Ergebnisdatensatz</dc:title>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/33134"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/23">
+    <dc:creator>http://madata/rdf/RitzeD</dc:creator>
+    <dc:creator>http://madata/rdf/PaulheimH</dc:creator>
+    <dc:creator>http://madata/rdf/EckertK</dc:creator>
+    <dc:title>Evaluation measures for ontology matchers in supervised matching scenarios</dc:title>
+    <cito:citedBy rdf:resource="http://dx.doi.org/10.1007/978-3-642-41338-4_25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/72">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:title>Field Experiment Data</dc:title>
+    <cito:citedBy rdf:resource="http://ub-madoc.bib.uni-mannheim.de/36139/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/73/">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:title>Lab Experiment Data</dc:title>
+    <cito:citedBy rdf:resource="http://ub-madoc.bib.uni-mannheim.de/36139/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/73/">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:title>Survey-Based Experiment Data</dc:title>
+    <cito:citedBy rdf:resource="http://ub-madoc.bib.uni-mannheim.de/36139/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/111">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/SchulzA</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Data from the paper: Acquisition of behavioral avoidance: Task-irrelevant conditioned stimuli trigger costly decisions</dc:title>
+    <cito:citedBy rdf:resource="http://dx.doi.org/10.1037/a0036136"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/112">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/PawlikowskiM</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Data from the paper: Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</dc:title>
+    <cito:citedBy rdf:resource="http://dx.doi.org/10.3389/fpsyg.2014.01050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/95">
+    <dc:creator>http://madata/rdf/SchachtS</dc:creator>
+    <dc:title>Ex Post Evaluation of Project KMS</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/93">
+    <dc:creator>http://madata/rdf/SchachtS</dc:creator>
+    <dc:title>Exploratory Interview Study for Project Knowledge Reuse</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/94">
+    <dc:creator>http://madata/rdf/SchachtS</dc:creator>
+    <dc:title>Pre-Evaluation Results of Project KMS Artifact</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/90">
+    <dc:creator>http://madata/rdf/TrenzM</dc:creator>
+    <dc:title>Multichannel commerce: A consumer perspective on the integration of physical and electronic channels </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/87">
+    <dc:creator>http://madata/rdf/WeilandL</dc:creator>
+    <dc:creator>http://madata/rdf/EffelsbergW</dc:creator>
+    <dc:creator>http://madata/rdf/PonzettoS</dc:creator>
+    <dc:title>Data from the paper: Weakly supervised construction of a repository of iconic images</dc:title>
+    <cito:citedBy rdf:resource="http://www.aclweb.org/anthology/W14-5410"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/80">
+    <dc:creator>http://madata/rdf/BrhelM</dc:creator>
+    <dc:title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</dc:title>
+    <cito:citedBy rdf:resource="http://dx.doi.org/10.1016/j.infsof.2015.01.004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/67">
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:title>Detecting Meaningful Compounds in Complex Class Labels (Experimental Results)</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/60">
+    <dc:creator>http://madata/rdf/LiY</dc:creator>
+    <dc:title>Effects of Cultural Intelligence in Cross-Cultural Virtual Collaboration - Experimental data</dc:title>
+    <cito:citedBy rdf:resource="http://dx.doi.org/10.1007/978-3-642-39137-8_27"/>
+    <cito:citedBy rdf:resource="http://dl.acm.org/citation.cfm?id=2160895"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/62">
+    <dc:creator>http://madata/rdf/LiY</dc:creator>
+    <dc:title>Effects of process ambidexterity on coordination and outcomes in software project teams - surevy data</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/61">
+    <dc:creator>http://madata/rdf/LiY</dc:creator>
+    <dc:title>Formulating Effective Coordination Strategies in Agile Global Software Development Teams - Interview transcripts</dc:title>
+    <cito:citedBy rdf:resource="http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/36/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/57">
+    <dc:creator>http://madata/rdf/StuckenschmidtH</dc:creator>
+    <dc:creator>http://madata/rdf/PonzettoS</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:title>A Gold Standard of Meaningful Compounds in Complex Class Labels</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/113">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/BrandM</dc:creator>
+    <dc:creator>http://madata/rdf/PawlikowskiM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Data from the paper: The cost of fear: Avoidant decision making in a spider gambling task</dc:title>
+    <cito:citedBy rdf:resource="http://dx.doi.org/10.1016/j.janxdis.2014.03.001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/76">
+    <dc:creator>http://madata/rdf/BotzenhardtA</dc:creator>
+    <dc:title>Form and function - designing successful mobile data services - Survey Data </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/149">
+    <dc:creator>http://madata/rdf/MoranaS</dc:creator>
+    <dc:title>Experiment Data Set - Design Cycle Two</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/148">
+    <dc:creator>http://madata/rdf/MoranaS</dc:creator>
+    <dc:title>Interviews and Workshops - Design Cycle One</dc:title>
+    <cito:citedBy rdf:resource="https://ub-madoc.bib.uni-mannheim.de/37039"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/151">
+    <dc:creator>http://madata/rdf/MoranaS</dc:creator>
+    <dc:title>Interviews and Workshop - Design Cycle Three</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/150">
+    <dc:creator>http://madata/rdf/MoranaS</dc:creator>
+    <dc:title>Survey Data Set - Design Cycle Three</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/152">
+    <dc:creator>http://madata/rdf/MoranaS</dc:creator>
+    <dc:title>Ticketing Processes - Design Cycle Three</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/145">
+    <dc:creator>http://madata/rdf/GraupnerE</dc:creator>
+    <dc:title>Supplements to the paper: Understanding Digitization across Processes and their Phases – An Extension of Process Virtualization Theory</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/145">
+    <dc:creator>http://madata/rdf/GraupnerE</dc:creator>
+    <dc:title>the paper: Process Digitization in Retail Banking – An Empirical Examination of Process Virtualization Theory</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/136">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:title>Reverb Instance and Relation gold standard</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/134">
+    <dc:creator>http://madata/rdf/GraupnerE</dc:creator>
+    <dc:title>Supplements to the paper: Customers' Intention to Use Digital Services in Retail Banking – An Information Processing Perspective</dc:title>
+    <cito:citedBy rdf:resource="http://aisel.aisnet.org/ecis2015_cr/61/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/127">
+    <dc:creator>http://madata/rdf/BernerM</dc:creator>
+    <dc:title>Systematic Literature Review “Enterprise Systems Chartering” –Review Procedure and Analysis Results</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/121">
+    <dc:creator>http://madata/rdf/LauterbachJ</dc:creator>
+    <dc:title>Understanding the Impact of Social and Ambidextrous Knowing-in-practice on the Effective Use of Enterprise Systems</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/68">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:title>Interview Data for the following study: Hadasch, F., Mueller, B., and Maedche, A. (2012). Exploring antecedent environmental and organizational factors to user-caused information leaks: A qualitative study. Proceedings of the 20th European Conference on Information Systems.</dc:title>
+    <cito:citedBy rdf:resource="http://aisel.aisnet.org/cgi/viewquote.cgi?article=1126&amp;context=ecis2012"/>
+    <cito:citedBy rdf:resource="http://ub-madoc.bib.uni-mannheim.de/36139/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/129">
+    <dc:creator>http://madata/rdf/GraupnerE</dc:creator>
+    <dc:title>Supplements to the paper: Visibility of Business Processes - An Information Processing Perspective in the Financial Services Industry</dc:title>
+    <cito:citedBy rdf:resource="http://aisel.aisnet.org/ecis2015_cr/60/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/118">
+    <dc:creator>http://madata/rdf/KahrauF</dc:creator>
+    <dc:title>Interpretive case study on ES Transformation - Interview Data</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://madata.bib.uni-mannheim.de/id/eprint/142">
+    <dc:creator>http://madata/rdf/BurgerA</dc:creator>
+    <dc:title>Affect and the weight of idealistic and pragmatic concerns in decision situations</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.emeraldinsight.com/doi/full/10.1108/07378830911007664">
+    <dc:creator>http://madata/rdf/NiemannC</dc:creator>
+    <dc:creator>http://madata/rdf/HängerC</dc:creator>
+    <dc:creator>http://madata/rdf/EckertK</dc:creator>
+    <dc:title>Tagging and Automation - Challenges and Chances for Academic Libraries</dc:title>
+    <cito:citedBy rdf:resource="http://www.tandfonline.com/doi/abs/10.1080/19386389.2013.778730#.VjdzlJeVtUQ"/>
+    <cito:citedBy rdf:resource="http://www.cqvip.com/qk/95888x/201202/40920550.html"/>
+    <cito:citedBy rdf:resource="http://www.cqvip.com/qk/93480x/201305/47338454.html"/>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-642-24826-9_21"/>
+    <cito:citedBy rdf:resource="http://www.cqvip.com/qk/90226x/201209/43330105.html"/>
+    <cito:citedBy rdf:resource="http://trace.tennessee.edu/utk_gradthes/988/"/>
+    <cito:citedBy rdf:resource="ijidt.com/index.php/ijidt/article/download/4.2.9/200"/>
+    <cito:citedBy rdf:resource="http://www.cais-acsi.ca/ojs/index.php/cais/article/view/616"/>
+    <cito:citedBy rdf:resource="http://195.251.240.254:8080/handle/10184/4103"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/2103">
+    <dc:creator>http://madata/rdf/HängerC</dc:creator>
+    <dc:title>Good tags or bad tags? Tagging im Kontext der bibliothekarischen Sacherschließung</dc:title>
+    <cito:citedBy rdf:resource="http://www.emeraldinsight.com/doi/full/10.1108/00220410810912451"/>
+    <cito:citedBy rdf:resource="http://polaris.bc.unicamp.br/seer/ojs/index.php/rbci/article/view/433"/>
+    <cito:citedBy rdf:resource="http://eprints.rclis.org/16583/"/>
+    <cito:citedBy rdf:resource="http://eprints.rclis.org/16583/"/>
+    <cito:citedBy rdf:resource="http://journals.ub.uni-heidelberg.de/index.php/akmb-news/article/viewFile/6147/1649"/>
+    <cito:citedBy rdf:resource="theses.fh-hagenberg.at/system/files/pdf/Kroiss10.pdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/30291">
+    <dc:creator>http://madata/rdf/AdolphD</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Valence and Arousal: A Comparison of Two Sets of Emotional Facial Expressions</dc:title>
+    <cito:citedBy rdf:resource="http://psycnet.apa.org/journals/emo/11/4/860/"/>
+    <cito:citedBy rdf:resource="http://www.sciencedirect.com/science/article/pii/S0301051112001093"/>
+    <cito:citedBy rdf:resource="http://www.cpcjournal.org/doi/abs/10.1597/08-244"/>
+    <cito:citedBy rdf:resource="http://www.sciencedirect.com/science/article/pii/S0167876012006782"/>
+    <cito:citedBy rdf:resource="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3685720/"/>
+    <cito:citedBy rdf:resource="http://www.sciencedirect.com/science/article/pii/S0191886910006227"/>
+    <cito:citedBy rdf:resource="http://www.tandfonline.com/doi/abs/10.1080/08964289.2013.818932"/>
+    <cito:citedBy rdf:resource="http://www.tandfonline.com/doi/abs/10.1080/02699931.2015.1049124"/>
+    <cito:citedBy rdf:resource="http://www.jstor.org/stable/10.5406/amerjpsyc.125.4.0409#pdf_only_tab_quotes"/>
+    <cito:citedBy rdf:resource="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/"/>
+    <cito:citedBy rdf:resource="http://iwc.oxfordjournals.org/quote/early/2015/08/02/iwc.iwv028.short"/>
+    <cito:citedBy rdf:resource="https://www.duo.uio.no/handle/10852/35161"/>
+    <cito:citedBy rdf:resource="http://academicworks.cuny.edu/cgi/viewquote.cgi?article=1387&amp;context=gc_etds"/>
+    <cito:citedBy rdf:resource="http://www.theses.fr/2013PA05H121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/33134">
+    <dc:creator>http://madata/rdf/KaiserJ</dc:creator>
+    <dc:creator>http://madata/rdf/KleinA</dc:creator>
+    <dc:title>Die E-Book-Umfrage an der UB Mannheim – Zusammenfassung der Ergebnisse</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/29687">
+    <dc:creator>http://madata/rdf/BotzenhardtA</dc:creator>
+    <dc:creator>http://madata/rdf/MethH</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors</dc:title>
+    <cito:citedBy rdf:resource="http://dl.acm.org/citation.cfm?id=2399037"/>
+    <cito:citedBy rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145"/>
+    <cito:citedBy rdf:resource="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&amp;rep=rep1&amp;type=pdf"/>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47"/>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1"/>
+    <cito:citedBy rdf:resource="http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf"/>
+    <cito:citedBy rdf:resource="http://www.pacis-net.org/file/2012/PACIS2012-155.pdf"/>
+    <cito:citedBy rdf:resource="http://dspace.cc.tut.fi/dpub/handle/123456789/21376"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/29687">
+    <dc:creator>http://madata/rdf/BotzenhardtA</dc:creator>
+    <dc:creator>http://madata/rdf/MethH</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>Cross-Functional Integration of Product Management and Product Design in Application Software Development: Exploration of Success Factors</dc:title>
+    <cito:citedBy rdf:resource="http://dl.acm.org/citation.cfm?id=2399037"/>
+    <cito:citedBy rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145"/>
+    <cito:citedBy rdf:resource="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&amp;rep=rep1&amp;type=pdf"/>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47"/>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1"/>
+    <cito:citedBy rdf:resource="http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf"/>
+    <cito:citedBy rdf:resource="http://www.pacis-net.org/file/2012/PACIS2012-155.pdf"/>
+    <cito:citedBy rdf:resource="http://dspace.cc.tut.fi/dpub/handle/123456789/21376"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.wim.uni-mannheim.de/informatik/lski/Dutta13IntegratingIE.pdf">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:creator>http://madata/rdf/NiepertM</dc:creator>
+    <dc:creator>http://madata/rdf/PonzettoS</dc:creator>
+    <dc:title>Integrating Open and Closed Information Extraction: Challenges and First Steps</dc:title>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-319-07443-6_20#page-1"/>
+    <cito:citedBy rdf:resource="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.846&amp;rep=rep1&amp;type=pdf"/>
+    <cito:citedBy rdf:resource="https://books.google.de/books?hl=de&amp;lr=&amp;id=e93YBAAAQBAJ&amp;oi=fnd&amp;pg=PA111&amp;ots=PnV5FcdkuD&amp;sig=dSvmblWprVAr7Bii7Wfyrh0qRYM#v=onepage&amp;q&amp;f=false"/>
+    <cito:citedBy rdf:resource="http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend%5Bid%5D=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932"/>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-319-07983-7_11#page-1"/>
+    <cito:citedBy rdf:resource="http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8722"/>
+    <cito:citedBy rdf:resource="http://dl.acm.org/citation.cfm?id=2556202"/>
+    <cito:citedBy rdf:resource="http://dl.acm.org/citation.cfm?id=2741139"/>
+    <cito:citedBy rdf:resource="http://www.akbc.ws/2014/submissions/akbc2014_submission_28.pdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/35518">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:title>Integration of Large Scale Knowledge Bases using Probabilistic Graphical Models</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/36461">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:creator>http://madata/rdf/PonzettoS</dc:creator>
+    <dc:title>A Probabilistic Approach for Integrating Heterogeneous Knowledge Sources</dc:title>
+    <cito:citedBy rdf:resource="http://www.igi-global.com/article/improving-the-quality-of-linked-data-using-statistical-distributions/116452"/>
+    <cito:citedBy rdf:resource="http://ceur-ws.org/Vol-1162/WoDOOM14-proceedings.pdf#page=33"/>
+    <cito:citedBy rdf:resource="https://books.google.de/books?hl=de&amp;lr=&amp;id=e93YBAAAQBAJ&amp;oi=fnd&amp;pg=PA111&amp;ots=PnV5FdcoyF&amp;sig=6V93jKGmnVtAIMz_-ppAdGARS70#v=onepage&amp;q&amp;f=false"/>
+    <cito:citedBy rdf:resource="http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf"/>
+    <cito:citedBy rdf:resource="http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf"/>
+    <cito:citedBy rdf:resource="https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/660"/>
+    <cito:citedBy rdf:resource="http://www.semantic-web-journal.net/system/files/swj1083.pdf"/>
+    <cito:citedBy rdf:resource="http://dl.acm.org/citation.cfm?id=2741139"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/36671">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/SchuhmacherM</dc:creator>
+    <dc:title>Entity Linking for Open Information Extraction</dc:title>
+    <cito:citedBy rdf:resource="www.mtg.upf.es/system/files/publications/CIM14_MAIN.pdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:title/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/33134">
+    <dc:creator>http://madata/rdf/KaiserJ</dc:creator>
+    <dc:creator>http://madata/rdf/KleinA</dc:creator>
+    <dc:creator>http://madata/rdf/KnudsenP</dc:creator>
+    <dc:creator>http://madata/rdf/LeichertG</dc:creator>
+    <dc:creator>http://madata/rdf/SchummI</dc:creator>
+    <dc:title>Die E-Book-Umfrage an der UB Mannheim – Zusammenfassung der Ergebnisse</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dx.doi.org/10.1007/978-3-642-41338-4_25">
+    <dc:creator>http://madata/rdf/RitzeD</dc:creator>
+    <dc:creator>http://madata/rdf/PaulheimH</dc:creator>
+    <dc:creator>http://madata/rdf/EckertK</dc:creator>
+    <dc:title>Evaluation measures for ontology matchers in supervised matching scenarios</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ub-madoc.bib.uni-mannheim.de/36139/">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ub-madoc.bib.uni-mannheim.de/36139/">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ub-madoc.bib.uni-mannheim.de/36139/">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dx.doi.org/10.1037/a0036136">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/SchulzA</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Acquisition of behavioral avoidance: task-irrelevant conditioned stimuli trigger costly decisions</dc:title>
+    <cito:citedBy rdf:resource="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4100576/"/>
+    <cito:citedBy rdf:resource="http://www.sciencedirect.com/science/article/pii/S0887618514000292"/>
+    <cito:citedBy rdf:resource="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220662/"/>
+    <cito:citedBy rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2546159"/>
+    <cito:citedBy rdf:resource="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/"/>
+    <cito:citedBy rdf:resource="http://www.sciencedirect.com/science/article/pii/S0005796715300267"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dx.doi.org/10.3389/fpsyg.2014.01050">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/PawlikowskiM</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Avoidant decision making in social anxiety: The interaction of angry faces and emotional responses</dc:title>
+    <cito:citedBy rdf:resource="http://www.sciencedirect.com/science/article/pii/S0005796715300267"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.aclweb.org/anthology/W14-5410">
+    <dc:creator>http://madata/rdf/WeilandL</dc:creator>
+    <dc:creator>http://madata/rdf/EffelsbergW</dc:creator>
+    <dc:creator>http://madata/rdf/PonzettoS</dc:creator>
+    <dc:title>Weakly supervised construction of a repository of iconic images</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.infsof.2015.01.004">
+    <dc:creator>http://madata/rdf/BrhelM</dc:creator>
+    <dc:creator>http://madata/rdf/MethH</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:creator>http://madata/rdf/WerderK</dc:creator>
+    <dc:title>Exploring principles of user-centered agile software development: A literature review</dc:title>
+    <cito:citedBy rdf:resource="ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7302488"/>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-319-22698-9_3"/>
+    <cito:citedBy rdf:resource="https://books.google.de/books?hl=de&amp;lr=&amp;id=lEquCgAAQBAJ&amp;oi=fnd&amp;pg=PA233&amp;ots=8UJy5d6tdR&amp;sig=gdvKgVW7-OB_fBialpAfcXmdpxE#v=onepage&amp;q&amp;f=false"/>
+    <cito:citedBy rdf:resource="http://www.researchandinnovationbook.com/PROCEEDINGS/CITA2015/Archives/papers/paper28.pdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dx.doi.org/10.1007/978-3-642-39137-8_27">
+    <dc:creator>http://madata/rdf/LiY</dc:creator>
+    <dc:creator>http://madata/rdf/SkulasonA</dc:creator>
+    <dc:title>Uncovering the Effects of Cultural Intelligence on Cross-Cultural Virtual Collaboration Processes</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dl.acm.org/citation.cfm?id=2160895">
+    <dc:creator>http://madata/rdf/LiY</dc:creator>
+    <dc:creator>http://madata/rdf/LiH</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:creator>http://madata/rdf/RauP</dc:creator>
+    <dc:title>"Are You a Trustworthy Partner in a Cross-cultural Virtual Environment?" – Behavioral Cultural Intelligence and Receptivity-based Trust in Virtual Collaboration</dc:title>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-642-39137-8_21"/>
+    <cito:citedBy rdf:resource="http://dl.acm.org/citation.cfm?id=2775462"/>
+    <cito:citedBy rdf:resource="link.springer.com/chapter/10.1007/978-3-642-39137-8_27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aisel.aisnet.org/icis2012/proceedings/ResearchInProgress/36/">
+    <dc:creator>http://madata/rdf/LiY</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>Formulating Effective Coordination Strategies in Agile Global Software Development Teams</dc:title>
+    <cito:citedBy rdf:resource="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6759189&amp;tag=1"/>
+    <cito:citedBy rdf:resource="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6759181"/>
+    <cito:citedBy rdf:resource="http://aisel.aisnet.org/icis2014/proceedings/ProjectManagement/17/"/>
+    <cito:citedBy rdf:resource="http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A830730&amp;dswid=4164"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dx.doi.org/10.1016/j.janxdis.2014.03.001">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/BrandM</dc:creator>
+    <dc:creator>http://madata/rdf/PawlikowskiM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>The cost of fear: Avoidant decision making in a spider gambling task</dc:title>
+    <cito:citedBy rdf:resource="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4248815/"/>
+    <cito:citedBy rdf:resource="ref09"/>
+    <cito:citedBy rdf:resource="http://www.sciencedirect.com/science/article/pii/S0005796715300267"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ub-madoc.bib.uni-mannheim.de/37039">
+    <dc:creator>http://madata/rdf/MoranaS</dc:creator>
+    <dc:creator>http://madata/rdf/SchachtS</dc:creator>
+    <dc:creator>http://madata/rdf/ScherpA</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>Designing a Process Guidance System to Support User’s Business Process Compliance</dc:title>
+    <cito:citedBy rdf:resource="http://link.springer.com/chapter/10.1007/978-3-319-18714-3_32"/>
+    <cito:citedBy rdf:resource="https://cora.ucc.ie/handle/10468/1814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aisel.aisnet.org/ecis2015_cr/61/">
+    <dc:creator>http://madata/rdf/GraupnerE</dc:creator>
+    <dc:creator>http://madata/rdf/MelcherF</dc:creator>
+    <dc:creator>http://madata/rdf/DemersD</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>Supplements to the paper: Customers' Intention to Use Digital Services in Retail Banking – An Information Processing Perspective</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aisel.aisnet.org/cgi/viewquote.cgi?article=1126&amp;context=ecis2012">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:creator>http://madata/rdf/MuellerB</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>Exploring Antecedent Environmental and Organizational Factors to User-Caused Information Leaks: a Qualitative Study</dc:title>
+    <cito:citedBy rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145"/>
+    <cito:citedBy rdf:resource="http://dx.doi.org/10.1108/MRR-04-2013-0085"/>
+    <cito:citedBy rdf:resource="http://link.springer.com/article/10.1007/s10916-013-9984-x"/>
+    <cito:citedBy rdf:resource="https://domino.fov.uni-mb.si/proceedings.nsf/Proceedings/08209464067DDF2AC1257E5B0048279B/$File/1_Alic.pdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ub-madoc.bib.uni-mannheim.de/36139/">
+    <dc:creator>http://madata/rdf/HadaschF</dc:creator>
+    <dc:title>Influencing Information Technology Users’ Rule Compliance : Multiple Studies in the Security and Business Process Context</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aisel.aisnet.org/ecis2015_cr/60/">
+    <dc:creator>http://madata/rdf/GraupnerE</dc:creator>
+    <dc:creator>http://madata/rdf/SchewerC</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>Visibility of Business Processes - An Information Processing Perspective in the Financial Services Industry</dc:title>
+    <cito:citedBy rdf:resource="http://web.eris.uni-mannheim.de/website_supplements/theses/attachments%5C326%5CThesis%20proposal%20final.pdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tandfonline.com/doi/abs/10.1080/19386389.2013.778730#.VjdzlJeVtUQ">
+    <dc:creator>http://madata/rdf/GerolimosM</dc:creator>
+    <dc:title>Tagging for libraries: A review of the effectiveness of tagging systems for library catalogs</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cqvip.com/qk/95888x/201202/40920550.html">
+    <dc:title>基于概念格的 Folksonomy 知识组织研究——TagCloud 的层级体系构建</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cqvip.com/qk/93480x/201305/47338454.html">
+    <dc:title>国外图书馆管理研究述评</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-642-24826-9_21">
+    <dc:creator>http://madata/rdf/ChenS</dc:creator>
+    <dc:title>User tagging for digital archives: the case of commercial keywords from the grand secretariat</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cqvip.com/qk/90226x/201209/43330105.html">
+    <dc:title>基于标签与群组的学术博客在开放存取平台中的应用研究</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://trace.tennessee.edu/utk_gradthes/988/">
+    <dc:creator>http://madata/rdf/KathuriaS</dc:creator>
+    <dc:title>quote analysis of social tags on intersectionality for works on Asian women: an exploratory study of LibraryThing</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="ijidt.com/index.php/ijidt/article/download/4.2.9/200">
+    <dc:creator>http://madata/rdf/ZaveriP</dc:creator>
+    <dc:creator>http://madata/rdf/AtkekarM</dc:creator>
+    <dc:title>Collaborative Tagging in Digital Libraries</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cais-acsi.ca/ojs/index.php/cais/article/view/616">
+    <dc:creator>http://madata/rdf/AjiferukeI</dc:creator>
+    <dc:creator>http://madata/rdf/GoodfellowJ</dc:creator>
+    <dc:title>Evaluation of the Effectiveness of Tag as an Access Point in a Public Library OPAC</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://195.251.240.254:8080/handle/10184/4103">
+    <dc:creator>http://madata/rdf/GerolimosM</dc:creator>
+    <dc:title>Tagging for Libraries: A Review of the Ef-fectiveness of Tagging Systems for Library Catalogs</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.emeraldinsight.com/doi/full/10.1108/00220410810912451">
+    <dc:creator>http://madata/rdf/LewandowskiD</dc:creator>
+    <dc:title>The retrieval effectiveness of web search engines: considering results descriptions</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://polaris.bc.unicamp.br/seer/ojs/index.php/rbci/article/view/433">
+    <dc:creator>http://madata/rdf/FurtadoC</dc:creator>
+    <dc:title>Educação e bibliotecas digitais Education and digital libraries</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eprints.rclis.org/16583/">
+    <dc:creator>http://madata/rdf/PetersI</dc:creator>
+    <dc:title>Folksonomies: Nutzergerechte Schlagwörter als Indexierungswerkzeug für die Massen</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eprints.rclis.org/16583/">
+    <dc:creator>http://madata/rdf/EbeidN</dc:creator>
+    <dc:title>Kataloganreicherung/user-created quote-oder: Wieso funktioniert mein OPAC nicht wie Amazon?</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://journals.ub.uni-heidelberg.de/index.php/akmb-news/article/viewFile/6147/1649">
+    <dc:creator>http://madata/rdf/HohmannG</dc:creator>
+    <dc:title>Social Tagging: Inhaltliche Erschließung durch freie Verschlagwortung und die „Klugheit der Masse“</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="theses.fh-hagenberg.at/system/files/pdf/Kroiss10.pdf">
+    <dc:creator>http://madata/rdf/KroissA</dc:creator>
+    <dc:title>Computerunterstützte Tagging-Verfahren für Dokumente im Web</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://psycnet.apa.org/journals/emo/11/4/860/">
+    <dc:creator>http://madata/rdf/EisenbarthH</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Happy mouth and sad eyes: scanning emotional facial expressions.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sciencedirect.com/science/article/pii/S0301051112001093">
+    <dc:creator>http://madata/rdf/WangelinB</dc:creator>
+    <dc:creator>http://madata/rdf/BradleyM</dc:creator>
+    <dc:creator>http://madata/rdf/KastnerA</dc:creator>
+    <dc:creator>http://madata/rdf/LangP</dc:creator>
+    <dc:title>Affective engagement for facial expressions and emotional scenes: the influence of social anxiety</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.cpcjournal.org/doi/abs/10.1597/08-244">
+    <dc:creator>http://madata/rdf/Meyer-MarcottyP</dc:creator>
+    <dc:creator>http://madata/rdf/GerdesA</dc:creator>
+    <dc:creator>http://madata/rdf/StellzigE</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Visual face perception of adults with unilateral cleft lip and palate in comparison to controls-an eye-tracking study</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sciencedirect.com/science/article/pii/S0167876012006782">
+    <dc:creator>http://madata/rdf/SmithE</dc:creator>
+    <dc:creator>http://madata/rdf/MoranT</dc:creator>
+    <dc:creator>http://madata/rdf/HajcakG</dc:creator>
+    <dc:title>Electrocortical responses to NIMSTIM facial expressions of emotion</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3685720/">
+    <dc:creator>http://madata/rdf/AdolphD</dc:creator>
+    <dc:creator>http://madata/rdf/MeisterL</dc:creator>
+    <dc:creator>http://madata/rdf/PauseB</dc:creator>
+    <dc:title>Context counts! social anxiety modulates the processing of fearful faces in the context of chemosensory anxiety signals</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sciencedirect.com/science/article/pii/S0191886910006227">
+    <dc:creator>http://madata/rdf/AndersonN</dc:creator>
+    <dc:creator>http://madata/rdf/WanL</dc:creator>
+    <dc:creator>http://madata/rdf/YoungK</dc:creator>
+    <dc:creator>http://madata/rdf/StanfordM</dc:creator>
+    <dc:title>Psychopathic traits predict startle habituation but not modulation in an emotional faces task</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tandfonline.com/doi/abs/10.1080/08964289.2013.818932">
+    <dc:creator>http://madata/rdf/WeißS</dc:creator>
+    <dc:creator>http://madata/rdf/WinkelmannA</dc:creator>
+    <dc:creator>http://madata/rdf/DuschekS</dc:creator>
+    <dc:title>Recognition of facially expressed emotions in patients with fibromyalgia syndrome</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tandfonline.com/doi/abs/10.1080/02699931.2015.1049124">
+    <dc:creator>http://madata/rdf/CalvoM</dc:creator>
+    <dc:creator>http://madata/rdf/NummenmaaL</dc:creator>
+    <dc:title>Perceptual and affective mechanisms in facial expression recognition: An integrative review</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.jstor.org/stable/10.5406/amerjpsyc.125.4.0409#pdf_only_tab_quotes">
+    <dc:creator>http://madata/rdf/AltarribaJ</dc:creator>
+    <dc:title>Emotion and Mood: Over 120 Years of Contemplation and Exploration in The American Journal of Psychology</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/PawlikowskiM</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://iwc.oxfordjournals.org/quote/early/2015/08/02/iwc.iwv028.short">
+    <dc:creator>http://madata/rdf/VenesvirtaH</dc:creator>
+    <dc:creator>http://madata/rdf/SurakkaV</dc:creator>
+    <dc:creator>http://madata/rdf/GizatdinovaY</dc:creator>
+    <dc:creator>http://madata/rdf/LylykangasJ</dc:creator>
+    <dc:creator>http://madata/rdf/SpakovO</dc:creator>
+    <dc:creator>http://madata/rdf/VerhoJ</dc:creator>
+    <dc:creator>http://madata/rdf/VetekA</dc:creator>
+    <dc:creator>http://madata/rdf/LekkalaJ</dc:creator>
+    <dc:title>Emotional Reactions to Point-Light Display Animations</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.duo.uio.no/handle/10852/35161">
+    <dc:creator>http://madata/rdf/KraftB</dc:creator>
+    <dc:title>Inhibition and rumination in remitted major depressive disorder</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://academicworks.cuny.edu/cgi/viewquote.cgi?article=1387&amp;context=gc_etds">
+    <dc:creator>http://madata/rdf/StatuckaM</dc:creator>
+    <dc:title>Facial Affect Recognition and Social Functioning in Individuals at Risk for Schizophrenia Spectrum Disorders</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.theses.fr/2013PA05H121">
+    <dc:creator>http://madata/rdf/AiteA</dc:creator>
+    <dc:title>Processus émotionnels et cognitifs dans le développement des capacités de prise de décision sous ambiguïté</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dl.acm.org/citation.cfm?id=2399037">
+    <dc:creator>http://madata/rdf/KuusinenK</dc:creator>
+    <dc:creator>http://madata/rdf/Väänänen-Vainio-MattilaK</dc:creator>
+    <dc:title>How to make agile UX work more efficient: management and sales perspectives</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145">
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:creator>http://madata/rdf/MuellerB</dc:creator>
+    <dc:title>Enterprise Systems–A Research Agenda</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&amp;rep=rep1&amp;type=pdf">
+    <dc:creator>http://madata/rdf/PashaM</dc:creator>
+    <dc:title>Developing Business Process Management Capabilities of Undergraduate IT Students</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47">
+    <dc:creator>http://madata/rdf/TangJ</dc:creator>
+    <dc:creator>http://madata/rdf/PeeL</dc:creator>
+    <dc:creator>http://madata/rdf/JunichiI</dc:creator>
+    <dc:title>Business process orientation: an empirical study of its impact on employees' innovativeness</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1">
+    <dc:creator>http://madata/rdf/StuckenbergS</dc:creator>
+    <dc:creator>http://madata/rdf/KudeT</dc:creator>
+    <dc:creator>http://madata/rdf/HeinzlA</dc:creator>
+    <dc:title>Understanding the role of organizational integration in developing and operating Software-as-a-Service</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf">
+    <dc:creator>http://madata/rdf/MaecheA</dc:creator>
+    <dc:creator>http://madata/rdf/WerderK</dc:creator>
+    <dc:title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.pacis-net.org/file/2012/PACIS2012-155.pdf">
+    <dc:creator>http://madata/rdf/StuckenbergS</dc:creator>
+    <dc:title>Exploring The Role Of Integration In Software-As-A-Service Failure</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dspace.cc.tut.fi/dpub/handle/123456789/21376">
+    <dc:creator>http://madata/rdf/OllbergK</dc:creator>
+    <dc:title>User Experience as a basis for Management Decision Making Processes</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dl.acm.org/citation.cfm?id=2399037">
+    <dc:creator>http://madata/rdf/KuusinenK</dc:creator>
+    <dc:creator>http://madata/rdf/Väänänen-Vainio-MattilaK</dc:creator>
+    <dc:title>How to make agile UX work more efficient: management and sales perspectives</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145">
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:creator>http://madata/rdf/MuellerB</dc:creator>
+    <dc:title>Enterprise Systems–A Research Agenda</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.6574&amp;rep=rep1&amp;type=pdf">
+    <dc:creator>http://madata/rdf/PashaM</dc:creator>
+    <dc:title>Developing Business Process Management Capabilities of Undergraduate IT Students</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-642-36285-9_47">
+    <dc:creator>http://madata/rdf/TangJ</dc:creator>
+    <dc:creator>http://madata/rdf/PeeL</dc:creator>
+    <dc:creator>http://madata/rdf/JunichiI</dc:creator>
+    <dc:title>Business process orientation: an empirical study of its impact on employees' innovativeness</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-662-43820-6_13#page-1">
+    <dc:creator>http://madata/rdf/StuckenbergS</dc:creator>
+    <dc:creator>http://madata/rdf/KudeT</dc:creator>
+    <dc:creator>http://madata/rdf/HeinzlA</dc:creator>
+    <dc:title>Understanding the role of organizational integration in developing and operating Software-as-a-Service</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.researchgate.net/profile/Karl_Werder/publication/272360138_Exploring_Principles_of_User-Centered_Agile_Software_Development_A_Literature_Review/links/55003b0f0cf260c99e8f892d.pdf">
+    <dc:creator>http://madata/rdf/MaecheA</dc:creator>
+    <dc:creator>http://madata/rdf/WerderK</dc:creator>
+    <dc:title>Exploring Principles of User-Centered Agile Software Development: A Literature Review</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.pacis-net.org/file/2012/PACIS2012-155.pdf">
+    <dc:creator>http://madata/rdf/StuckenbergS</dc:creator>
+    <dc:title>Exploring The Role Of Integration In Software-As-A-Service Failure</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dspace.cc.tut.fi/dpub/handle/123456789/21376">
+    <dc:creator>http://madata/rdf/OllbergK</dc:creator>
+    <dc:title>User Experience as a basis for Management Decision Making Processes</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-319-07443-6_20#page-1">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:creator>http://madata/rdf/PonzettoS</dc:creator>
+    <dc:title>A probabilistic approach for integrating heterogeneous knowledge sources</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.846&amp;rep=rep1&amp;type=pdf">
+    <dc:creator>http://madata/rdf/HellmannS</dc:creator>
+    <dc:creator>http://madata/rdf/FilipowskaA</dc:creator>
+    <dc:creator>http://madata/rdf/BarrièreC</dc:creator>
+    <dc:creator>http://madata/rdf/MendesP</dc:creator>
+    <dc:creator>http://madata/rdf/KontokostasD</dc:creator>
+    <dc:title>NLP and DBpedia: An Upward Knowledge Acquisition Spiral</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://books.google.de/books?hl=de&amp;lr=&amp;id=e93YBAAAQBAJ&amp;oi=fnd&amp;pg=PA111&amp;ots=PnV5FcdkuD&amp;sig=dSvmblWprVAr7Bii7Wfyrh0qRYM#v=onepage&amp;q&amp;f=false">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:creator>http://madata/rdf/StuckenschmidtH</dc:creator>
+    <dc:title>Semantifying triples from open information extraction systems</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.qucosa.de/recherche/frontdoor/cache.off?tx_slubopus4frontend%5Bid%5D=urn%3Anbn%3Ade%3Absz%3A15-qucosa-157932">
+    <dc:creator>http://madata/rdf/HellmannS</dc:creator>
+    <dc:title>Integrating Natural Language Processing (NLP) and Language Resources Using Linked Data</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-319-07983-7_11#page-1">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/SchuhmacherM</dc:creator>
+    <dc:title>Entity Linking for Open Information Extraction</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8722">
+    <dc:creator>http://madata/rdf/NiepertM</dc:creator>
+    <dc:creator>http://madata/rdf/DomingosP</dc:creator>
+    <dc:title>Tractable Probabilistic Knowledge Bases: Wikipedia and Beyond</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dl.acm.org/citation.cfm?id=2556202">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:title>Integration of large scale knowledge bases using probabilistic graphical models</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dl.acm.org/citation.cfm?id=2741139">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:creator>http://madata/rdf/StuckenschmidtH</dc:creator>
+    <dc:title>Enriching Structured Knowledge with Open Information</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.akbc.ws/2014/submissions/akbc2014_submission_28.pdf">
+    <dc:creator>http://madata/rdf/NiepertM</dc:creator>
+    <dc:creator>http://madata/rdf/SinghS</dc:creator>
+    <dc:title>Out of Many, One: Unifying Web-Extracted Knowledge Bases</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.igi-global.com/article/improving-the-quality-of-linked-data-using-statistical-distributions/116452">
+    <dc:creator>http://madata/rdf/PaulheimH</dc:creator>
+    <dc:creator>http://madata/rdf/BizerC</dc:creator>
+    <dc:title>Improving the quality of linked data using statistical distributions</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ceur-ws.org/Vol-1162/WoDOOM14-proceedings.pdf#page=33">
+    <dc:creator>http://madata/rdf/PaulheimH</dc:creator>
+    <dc:title>Identifying wrong links between datasets by multi-dimensional outlier detection</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://books.google.de/books?hl=de&amp;lr=&amp;id=e93YBAAAQBAJ&amp;oi=fnd&amp;pg=PA111&amp;ots=PnV5FdcoyF&amp;sig=6V93jKGmnVtAIMz_-ppAdGARS70#v=onepage&amp;q&amp;f=false">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:title>Semantifying triples from open information extraction systems</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf">
+    <dc:creator>http://madata/rdf/BoviC</dc:creator>
+    <dc:creator>http://madata/rdf/Espinosa-AnkeL</dc:creator>
+    <dc:creator>http://madata/rdf/NavigliR</dc:creator>
+    <dc:title>Knowledge Base Unification via Sense Embeddings and Disambiguation</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wwwusers.di.uniroma1.it/~dellibovi/pubs/EMNLP15.pdf">
+    <dc:creator>http://madata/rdf/LiuW</dc:creator>
+    <dc:creator>http://madata/rdf/LiuJ</dc:creator>
+    <dc:creator>http://madata/rdf/QianY</dc:creator>
+    <dc:creator>http://madata/rdf/WeiB</dc:creator>
+    <dc:creator>http://madata/rdf/ZhengQ</dc:creator>
+    <dc:title>Truth Discovery to Resolve Object Conflicts in Linked Data</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/660">
+    <dc:creator>http://madata/rdf/BoviC</dc:creator>
+    <dc:creator>http://madata/rdf/TelescaL</dc:creator>
+    <dc:creator>http://madata/rdf/NavigliR</dc:creator>
+    <dc:title>Large-Scale Information Extraction from Textual Definitions through Deep Syntactic and Semantic Analysis</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semantic-web-journal.net/system/files/swj1083.pdf">
+    <dc:creator>http://madata/rdf/PaulheimH</dc:creator>
+    <dc:title>Automatic Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dl.acm.org/citation.cfm?id=2741139">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:creator>http://madata/rdf/StuckenschmidtH</dc:creator>
+    <dc:title>Enriching Structured Knowledge with Open Information</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="www.mtg.upf.es/system/files/publications/CIM14_MAIN.pdf">
+    <dc:creator>http://madata/rdf/DuttaA</dc:creator>
+    <dc:creator>http://madata/rdf/MeilickeC</dc:creator>
+    <dc:creator>http://madata/rdf/StuckenschmidtH</dc:creator>
+    <dc:title>Automatic creation of knowledge graphs from digital musical document libraries</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4100576/">
+    <dc:creator>http://madata/rdf/BublatzkyF</dc:creator>
+    <dc:creator>http://madata/rdf/GerdesA</dc:creator>
+    <dc:creator>http://madata/rdf/WhiteA</dc:creator>
+    <dc:creator>http://madata/rdf/RiemerM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Social and emotional relevance in face processing: happy faces of future interaction partners enhance the late positive potential</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sciencedirect.com/science/article/pii/S0887618514000292">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/Brandm</dc:creator>
+    <dc:creator>http://madata/rdf/PawlikowskiM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>The cost of fear: avoidant decision making in a spider gambling task</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220662/">
+    <dc:creator>http://madata/rdf/DerntlB</dc:creator>
+    <dc:creator>http://madata/rdf/PintzingerN</dc:creator>
+    <dc:creator>http://madata/rdf/Kryspin-ExnerI</dc:creator>
+    <dc:creator>http://madata/rdf/Schöpfv</dc:creator>
+    <dc:title>The impact of sex hormone concentrations on decision-making in females and males</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2546159">
+    <dc:creator>http://madata/rdf/KrellM</dc:creator>
+    <dc:title>Fear and Loathing in the Judicial Process: Comparative Case Studies of Judicial Responses to Terrorism</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178379/">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/PawlinowskiM</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sciencedirect.com/science/article/pii/S0005796715300267">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:creator>http://madata/rdf/NilesA</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sciencedirect.com/science/article/pii/S0005796715300267">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:creator>http://madata/rdf/NilesA</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7302488">
+    <dc:creator>http://madata/rdf/KuusinenK</dc:creator>
+    <dc:title>Overcoming Challenges in Agile User Experience Work: Cross-Case Analysis of Two Large Software Organizations</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-319-22698-9_3">
+    <dc:creator>http://madata/rdf/KuusinenK</dc:creator>
+    <dc:title>Task Allocation Between UX Specialists and Developers in Agile Software Development Projects</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://books.google.de/books?hl=de&amp;lr=&amp;id=lEquCgAAQBAJ&amp;oi=fnd&amp;pg=PA233&amp;ots=8UJy5d6tdR&amp;sig=gdvKgVW7-OB_fBialpAfcXmdpxE#v=onepage&amp;q&amp;f=false">
+    <dc:creator>http://madata/rdf/KuusinenK</dc:creator>
+    <dc:title>Continuous User Experience Development</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.researchandinnovationbook.com/PROCEEDINGS/CITA2015/Archives/papers/paper28.pdf">
+    <dc:creator>http://madata/rdf/FarinangoC</dc:creator>
+    <dc:creator>http://madata/rdf/BenavidesJ</dc:creator>
+    <dc:creator>http://madata/rdf/LópezD</dc:creator>
+    <dc:title>OpenUP/MMU-ISO Process Updated According to the Activities and Recommendations of the ISO 9241-210 Standard</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-642-39137-8_21">
+    <dc:creator>http://madata/rdf/AkhilesgK</dc:creator>
+    <dc:creator>http://madata/rdf/SindhujaC</dc:creator>
+    <dc:creator>http://madata/rdf/KahaiS</dc:creator>
+    <dc:title>Extending Role of “I” Virtually–Identity Performance and Their Influence on Individual Behaviour and Team Performance in Globally Distributed Work Virtual Teams</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dl.acm.org/citation.cfm?id=2775462">
+    <dc:creator>http://madata/rdf/JungH</dc:creator>
+    <dc:creator>http://madata/rdf/HongS</dc:creator>
+    <dc:creator>http://madata/rdf/MeasP</dc:creator>
+    <dc:creator>http://madata/rdf/ZachryM</dc:creator>
+    <dc:title>Designing tools to support advanced users in new forms of social media interaction</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="link.springer.com/chapter/10.1007/978-3-642-39137-8_27">
+    <dc:creator>http://madata/rdf/LiY</dc:creator>
+    <dc:creator>http://madata/rdf/SkulasonA</dc:creator>
+    <dc:title>Uncovering the Effects of Cultural Intelligence on Cross-Cultural Virtual Collaboration Processes</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6759189&amp;tag=1">
+    <dc:creator>http://madata/rdf/ScheererA</dc:creator>
+    <dc:creator>http://madata/rdf/HildenbrandT</dc:creator>
+    <dc:creator>http://madata/rdf/KudeT</dc:creator>
+    <dc:title>Coordination in Large-Scale Agile Software Development: A Multiteam Systems Perspective</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6759181">
+    <dc:creator>http://madata/rdf/HummelM</dc:creator>
+    <dc:title>State-of-the-Art: A Systematic Literature Review on Agile Information Systems Development</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aisel.aisnet.org/icis2014/proceedings/ProjectManagement/17/">
+    <dc:creator>http://madata/rdf/ScheererA</dc:creator>
+    <dc:creator>http://madata/rdf/KudeT</dc:creator>
+    <dc:title>Exploring Coordination in Large-Scale Agile Software Development: A Multiteam Systems Perspective</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A830730&amp;dswid=4164">
+    <dc:creator>http://madata/rdf/RahmanM</dc:creator>
+    <dc:creator>http://madata/rdf/DasA</dc:creator>
+    <dc:title>MITIGATION APPROACHES FOR COMMON ISSUES AND CHALLENGES WHEN USING SCRUM IN GLOBAL SOFTWARE DEVELOPMENT</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4248815/">
+    <dc:creator>http://madata/rdf/GerdesA</dc:creator>
+    <dc:creator>http://madata/rdf/WieserM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Emotional pictures and sounds: a review of multimodal interactions of emotion cues in multiple domains</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="ref09">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/PawlikowskiM</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:title>Avoidant decision making in social anxiety: the interaction of angry faces and emotional responses</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.sciencedirect.com/science/article/pii/S0005796715300267">
+    <dc:creator>http://madata/rdf/PittigA</dc:creator>
+    <dc:creator>http://madata/rdf/AlpersG</dc:creator>
+    <dc:creator>http://madata/rdf/NilesA</dc:creator>
+    <dc:creator>http://madata/rdf/CraskeM</dc:creator>
+    <dc:title>Avoidant decision-making in social anxiety disorder: A laboratory task linked to in vivo anxiety and treatment outcome</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/chapter/10.1007/978-3-319-18714-3_32">
+    <dc:creator>http://madata/rdf/MoranaS</dc:creator>
+    <dc:creator>http://madata/rdf/GerardsT</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>ITSM ProcessGuide–A Process Guidance System for IT Service Management</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cora.ucc.ie/handle/10468/1814">
+    <dc:creator>http://madata/rdf/MoranaS</dc:creator>
+    <dc:creator>http://madata/rdf/SchachtS</dc:creator>
+    <dc:creator>http://madata/rdf/GerardsT</dc:creator>
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:title>ITSM ProcessGuide–a longitudinal and multi-method field study for real-world DSR artifact evaluation</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2033145">
+    <dc:creator>http://madata/rdf/MaedcheA</dc:creator>
+    <dc:creator>http://madata/rdf/MuellerB</dc:creator>
+    <dc:title>Enterprise Systems - A Research Agenda</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dx.doi.org/10.1108/MRR-04-2013-0085">
+    <dc:creator>http://madata/rdf/LebekB</dc:creator>
+    <dc:creator>http://madata/rdf/UffenJ</dc:creator>
+    <dc:creator>http://madata/rdf/NeumannM</dc:creator>
+    <dc:creator>http://madata/rdf/HohlerB</dc:creator>
+    <dc:creator>http://madata/rdf/BreitnerM</dc:creator>
+    <dc:title>Information security awareness and behavior: a theory-based literature review</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://link.springer.com/article/10.1007/s10916-013-9984-x">
+    <dc:creator>http://madata/rdf/AydinÖ</dc:creator>
+    <dc:creator>http://madata/rdf/ChouseinoglouO</dc:creator>
+    <dc:title>Fuzzy Assessment of Health Information System Users' Security Awareness</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://domino.fov.uni-mb.si/proceedings.nsf/Proceedings/08209464067DDF2AC1257E5B0048279B/$File/1_Alic.pdf">
+    <dc:creator>http://madata/rdf/AlićI</dc:creator>
+    <dc:title>Financial Market Surveillance Decision Support: An Explanatory Design Theory</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://web.eris.uni-mannheim.de/website_supplements/theses/attachments%5C326%5CThesis%20proposal%20final.pdf">
+    <dc:creator>http://madata/rdf/KalidindiV</dc:creator>
+    <dc:title>Process Visibility Requirements and Capabilities-Conceptual Perspectives and Operationalization</dc:title>
+  </rdf:Description>
+</rdf:RDF>

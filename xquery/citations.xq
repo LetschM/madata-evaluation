@@ -5,18 +5,6 @@ declare function local:slugify($title as element()*)
     return replace(string-join($chars), '[^A-Za-z0-9]', '_')
 };
 
-let $indent := "  "
-let $semicolon := ";"
-let $nl := "&#10;"
-let $arrow := " -> "
-let $default_attr := concat(
-  'fontname="Courier-Bold",',
-  'fontcolor="black",',
-  'style="filled",')
-let $creator_attr     := concat('[', $default_attr, 'fillcolor="#8888ff"', ']')
-let $madata_attr      := concat('[', $default_attr, 'fillcolor="#ff8888"', ']')
-let $publication_attr := concat('[', $default_attr, 'fillcolor="#88ff88"', ']')
-let $citation_attr    := concat('[', $default_attr, 'fillcolor="#ffff88"', ']')
 
 let $graph_attr := 'bgcolor="#eeeeee";'
 let $all_lines := for $eprint in //eprint
