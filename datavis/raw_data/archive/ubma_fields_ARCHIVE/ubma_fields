@@ -1,0 +1,81 @@
+Short description (if possible) and counts of UBMA fields in MADATA ePrints
+
+namespace: http://eprints.org/ep2/data/2.0
+
+//ubma_availibility [SIC!]
+type of availability of the data, defines field "Availability (Controlled) in Madata records.
+
+1 - download (archive count = 21)
+2 - delivery (archive count = 23)
+3-5 unknown?
+
+total count = 69
+archive count = 44
+
+//ubma_availibility_free [SIC!]
+Short description of how to recieve the data, defines field "Availability" in Madata records.
+
+Example: "Send a request to xy@uni-mannheim.de
+
+total count = 12
+archive count = 8
+
+//ubma_id_number_checked
+
+Boolean:
+TRUE (archive count = 44) 
+FALSE
+ 
+total count = 44
+archive count = 44
+
+//ubma_project
+If data belongs to a project, the title of the project is given in this field, defines field "Project" in Madata records.
+
+total count = 12
+archive count = 7
+
+//ubma_language
+language of the record.
+
+eng (archive count = 5)
+ger (archive count = 7)
+
+total count = 12
+archive count = 12
+
+//ubma_docid_number
+DOI of single document
+
+Example:
+	10.4232/7081.142/5
+	10.4232/7081.142/6
+	...	
+
+total count = 67
+archive count = 67
+
+//ubma_publications
+link to related publications in MADOC --> IMPORTANT!
+
+total count = 20
+archive count = 20
+
+//ubma_data_unittype
+?
+
+1 (archive count = 4)
+10 (archive count = 1)
+
+total count = 5
+archive count = 5
+
+//ubma_docid_number_checked
+
+Boolean:
+TRUE (archive count = 20)
+FALSE (archive count = 1)
+
+total count = 21
+archive count = 21
+
