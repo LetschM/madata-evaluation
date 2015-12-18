@@ -1,0 +1,9 @@
+PREFIX cito: <http://purl.org/spar/cito/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT ?from ?from_creator ?to ?to_creator
+WHERE {
+    ?to cito:citedBy ?from .
+    ?to dc:creator ?to_creator .
+    ?from dc:creator ?from_creator .
+}

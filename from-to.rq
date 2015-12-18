@@ -1,5 +1,0 @@
-PREFIX cito: <http://purl.org/spar/cito/>
-SELECT ?from ?to
-WHERE {
-    ?to cito:citedBy ?from .
-}
